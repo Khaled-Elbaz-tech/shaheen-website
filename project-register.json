@@ -1,0 +1,596 @@
+[
+  {
+    "id": "sohra-culture",
+    "title": "Sohra Culture & Experience Centre",
+    "category": "Culture",
+    "location": "Sohra, Meghalaya",
+    "hero": "d34s029i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Sohra Culture & Experience Centre",
+        "href": "/projects/sohra-culture/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "umiam-lake",
+    "title": "Umiam Lake",
+    "category": "Landscape / Masterplanning",
+    "location": "Umiam, Meghalaya",
+    "hero": "d00s005i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Lake Masterplan",
+        "href": "/projects/umiam-lake/#chapter-1"
+      },
+      {
+        "title": "Lakefront Redevelopment",
+        "href": "/projects/umiam-lake/#chapter-2"
+      },
+      {
+        "title": "Lakefront Market",
+        "href": "/projects/umiam-lake/#chapter-4"
+      },
+      {
+        "title": "Music City",
+        "href": "/projects/umiam-lake/#chapter-7"
+      },
+      {
+        "title": "Music Academy",
+        "href": "/projects/umiam-lake/#chapter-7"
+      },
+      {
+        "title": "Wellness Centre",
+        "href": "/projects/umiam-lake/#chapter-8"
+      },
+      {
+        "title": "Luxury Villas",
+        "href": "/projects/umiam-lake/#chapter-8"
+      },
+      {
+        "title": "Senior Citizen Living",
+        "href": "/projects/umiam-lake/#chapter-9"
+      },
+      {
+        "title": "Film City",
+        "href": "/projects/umiam-lake/#chapter-10"
+      },
+      {
+        "title": "Lakeside Hotel",
+        "href": "/projects/umiam-lake/#chapter-10"
+      },
+      {
+        "title": "Adventure Park",
+        "href": "/projects/umiam-lake/#chapter-11"
+      },
+      {
+        "title": "Craft Village",
+        "href": "/projects/umiam-lake/#chapter-11"
+      },
+      {
+        "title": "Echo Island",
+        "href": "/projects/umiam-lake/#chapter-11"
+      },
+      {
+        "title": "Glamping",
+        "href": "/projects/umiam-lake/#chapter-11"
+      },
+      {
+        "title": "MECL Circuit House",
+        "href": "/projects/umiam-lake/#chapter-11"
+      },
+      {
+        "title": "Sailing Club",
+        "href": "/projects/umiam-lake/#chapter-11"
+      },
+      {
+        "title": "Performing Arts Centre, Recording Studios & Artist Residencies",
+        "href": "/projects/umiam-lake/#chapter-11"
+      }
+    ]
+  },
+  {
+    "id": "palliative-care",
+    "title": "Palliative Care & Housing",
+    "category": "Healthcare / Housing",
+    "location": "Muzaffarpur, Bihar",
+    "hero": "d62s050i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Palliative Care Centre",
+        "href": "/projects/palliative-care/#chapter-1"
+      },
+      {
+        "title": "Support Buildings",
+        "href": "/projects/palliative-care/#chapter-5"
+      },
+      {
+        "title": "Campus Housing",
+        "href": "/projects/palliative-care/#chapter-6"
+      }
+    ]
+  },
+  {
+    "id": "tura-administration",
+    "title": "Tura Integrated Administrative Complex",
+    "category": "Civic Architecture",
+    "location": "Tura, Meghalaya",
+    "hero": "d39s027i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Mini Secretariat / Administrative Complex",
+        "href": "/projects/tura-administration/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "shillong-public-realm",
+    "title": "Shillong Public Realm",
+    "category": "Urban Design / Landscape",
+    "location": "Shillong, Meghalaya",
+    "hero": "d13s004i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Polo & Shillong Riverfront Masterplan",
+        "href": "/projects/shillong-public-realm/#chapter-1"
+      },
+      {
+        "title": "Riverfront Connections",
+        "href": "/projects/shillong-public-realm/#chapter-2"
+      },
+      {
+        "title": "Ward’s Lake Promenade",
+        "href": "/projects/shillong-public-realm/#chapter-3"
+      },
+      {
+        "title": "Ward’s Lake Redevelopment",
+        "href": "/projects/shillong-public-realm/#chapter-4"
+      },
+      {
+        "title": "Ward’s Lake Experience Centre",
+        "href": "/projects/shillong-public-realm/#chapter-5"
+      },
+      {
+        "title": "Sports Hostel",
+        "href": "/projects/shillong-public-realm/#chapter-7"
+      },
+      {
+        "title": "Polo Multi-Level Parking",
+        "href": "/projects/shillong-public-realm/#chapter-8"
+      },
+      {
+        "title": "Hawkers’ Market",
+        "href": "/projects/shillong-public-realm/#chapter-9"
+      },
+      {
+        "title": "Governor’s Herbal Garden",
+        "href": "/projects/shillong-public-realm/#chapter-10"
+      },
+      {
+        "title": "SRGT Sports Tower",
+        "href": "/projects/shillong-public-realm/#chapter-11"
+      },
+      {
+        "title": "Part F Sports Tower",
+        "href": "/projects/shillong-public-realm/#chapter-11"
+      }
+    ]
+  },
+  {
+    "id": "new-shillong",
+    "title": "New Shillong",
+    "category": "Urban Planning / Mixed Programme",
+    "location": "New Shillong, Meghalaya",
+    "hero": "d27s055i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Boulevard & Urban Framework",
+        "href": "/projects/new-shillong/#chapter-2"
+      },
+      {
+        "title": "Affordable Housing",
+        "href": "/projects/new-shillong/#chapter-3"
+      },
+      {
+        "title": "Premium Housing",
+        "href": "/projects/new-shillong/#chapter-5"
+      },
+      {
+        "title": "Prime Hub",
+        "href": "/projects/new-shillong/#chapter-6"
+      },
+      {
+        "title": "Prime Hub Extension",
+        "href": "/projects/new-shillong/#chapter-8"
+      },
+      {
+        "title": "Bus Depot & Terminal",
+        "href": "/projects/new-shillong/#chapter-9"
+      },
+      {
+        "title": "Sports Tower",
+        "href": "/projects/new-shillong/#chapter-11"
+      }
+    ]
+  },
+  {
+    "id": "mandalgre",
+    "title": "Mandalgre Cultural Centre",
+    "category": "Culture / Landscape",
+    "location": "Mandalgre, Meghalaya",
+    "hero": "d21s026i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Mandalgre Cultural Centre",
+        "href": "/projects/mandalgre/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "nongnah",
+    "title": "Nongnah Geology Museum",
+    "category": "Museum / Hospitality",
+    "location": "Nongnah, Meghalaya",
+    "hero": "d48s043i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Nongnah Geology Museum",
+        "href": "/projects/nongnah/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "sohra-cement",
+    "title": "Sohra Cement Factory Redevelopment",
+    "category": "Adaptive Reuse",
+    "location": "Sohra, Meghalaya",
+    "hero": "d35s043i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Sohra Cement Factory Redevelopment",
+        "href": "/projects/sohra-cement/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "pelga-falls",
+    "title": "Pelga Falls",
+    "category": "Landscape / Visitor Architecture",
+    "location": "Tura, Meghalaya",
+    "hero": "d36s016i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Pelga Falls",
+        "href": "/projects/pelga-falls/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "tura-city",
+    "title": "Tura Promenade & City Projects",
+    "category": "Urban Design / Civic Programme",
+    "location": "Tura, Meghalaya",
+    "hero": "d37s024i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "City Park",
+        "href": "/projects/tura-city/#chapter-1"
+      },
+      {
+        "title": "Youth Centre",
+        "href": "/projects/tura-city/#chapter-2"
+      },
+      {
+        "title": "Hotel",
+        "href": "/projects/tura-city/#chapter-3"
+      },
+      {
+        "title": "Convention Centre",
+        "href": "/projects/tura-city/#chapter-4"
+      },
+      {
+        "title": "SMELC Cinema",
+        "href": "/projects/tura-city/#chapter-5"
+      },
+      {
+        "title": "Active Ageing Centre",
+        "href": "/projects/tura-city/#chapter-6"
+      },
+      {
+        "title": "Najing Bazar",
+        "href": "/projects/tura-city/#chapter-7"
+      },
+      {
+        "title": "Vegetable Market",
+        "href": "/projects/tura-city/#chapter-8"
+      },
+      {
+        "title": "Aramile Plaza & Kids Zone",
+        "href": "/projects/tura-city/#chapter-9"
+      },
+      {
+        "title": "Aramile Multi-Level Parking",
+        "href": "/projects/tura-city/#chapter-9"
+      },
+      {
+        "title": "Chandmari Commercial Complex",
+        "href": "/projects/tura-city/#chapter-10"
+      },
+      {
+        "title": "Kendriya Vidyalaya Sports Field",
+        "href": "/projects/tura-city/#chapter-11"
+      },
+      {
+        "title": "Promenade",
+        "href": "/projects/tura-city/#chapter-12"
+      },
+      {
+        "title": "Junctions",
+        "href": "/projects/tura-city/#chapter-13"
+      },
+      {
+        "title": "Tura Market Redevelopment",
+        "href": "/projects/tura-city/#chapter-14"
+      },
+      {
+        "title": "Beautification & City Identity",
+        "href": "/projects/tura-city/#chapter-15"
+      }
+    ]
+  },
+  {
+    "id": "bodoland-study",
+    "title": "What Bodoland Needs",
+    "category": "Regional Study",
+    "location": "Bodoland, Assam",
+    "hero": "d48s053i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "What Bodoland Needs",
+        "href": "/projects/bodoland-study/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "farmers-market",
+    "title": "Bodoland Farmers’ Market",
+    "category": "Market / Community",
+    "location": "Bodoland, Assam",
+    "hero": "d49s038i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Bodoland Farmers’ Market",
+        "href": "/projects/farmers-market/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "bodoland-stadium",
+    "title": "Bodoland Stadium",
+    "category": "Sports / Community",
+    "location": "Baksa, Bodoland, Assam",
+    "hero": "d50s042i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Bodoland Stadium",
+        "href": "/projects/bodoland-stadium/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "bogamati",
+    "title": "Bogamati Riverfront",
+    "category": "Landscape / Tourism",
+    "location": "Bogamati, Bodoland, Assam",
+    "hero": "d51s032i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Bogamati Riverfront",
+        "href": "/projects/bogamati/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "dc-park",
+    "title": "DC Park",
+    "category": "Public Landscape",
+    "location": "Tura, Meghalaya",
+    "hero": "d54s025i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "DC Park",
+        "href": "/projects/dc-park/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "shillong-healthcare",
+    "title": "Shillong Healthcare Campuses",
+    "category": "Healthcare / Campus Planning",
+    "location": "Shillong, Meghalaya",
+    "hero": "d55s014i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "Civil Hospital Campus",
+        "href": "/projects/shillong-healthcare/#chapter-1"
+      },
+      {
+        "title": "Oncology Block",
+        "href": "/projects/shillong-healthcare/#chapter-2"
+      },
+      {
+        "title": "Operating Theatre Block",
+        "href": "/projects/shillong-healthcare/#chapter-3"
+      },
+      {
+        "title": "Red Cross Accommodation",
+        "href": "/projects/shillong-healthcare/#chapter-4"
+      },
+      {
+        "title": "Ganesh Das Hospital",
+        "href": "/projects/shillong-healthcare/#chapter-5"
+      }
+    ]
+  },
+  {
+    "id": "tura-study",
+    "title": "What Tura City Needs",
+    "category": "Urban Research / Identity",
+    "location": "Tura, Meghalaya",
+    "hero": "d47s033i0",
+    "regional": false,
+    "entries": [
+      {
+        "title": "What Tura City Needs",
+        "href": "/projects/tura-study/#chapter-1"
+      },
+      {
+        "title": "Urban Identity & Street Furniture",
+        "href": "/projects/tura-study/#chapter-2"
+      }
+    ]
+  },
+  {
+    "id": "sakal-aduma",
+    "title": "Sakal-Aduma Eco-Resort",
+    "category": "Hospitality / Landscape",
+    "location": "Sakal-Aduma, Meghalaya",
+    "hero": "d48s039i0",
+    "regional": true,
+    "entries": [
+      {
+        "title": "Sakal-Aduma Eco-Resort",
+        "href": "/projects/sakal-aduma/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "jakrem-hot-springs",
+    "title": "Jakrem Hot Spring Spa & Resort",
+    "category": "Wellness / Landscape",
+    "location": "Jakrem / Lawblei, Meghalaya",
+    "hero": "d48s042i0",
+    "regional": true,
+    "entries": [
+      {
+        "title": "Jakrem Hot Spring Spa & Resort",
+        "href": "/projects/jakrem-hot-springs/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "natural-history-complex",
+    "title": "Natural History Complex",
+    "category": "Museum / Research",
+    "location": "Meghalaya",
+    "hero": "d48s044i0",
+    "regional": true,
+    "entries": [
+      {
+        "title": "Natural History Complex",
+        "href": "/projects/natural-history-complex/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "monolith-visitor-centre",
+    "title": "Stone Monolith Visitor Centre",
+    "category": "Heritage / Visitor Architecture",
+    "location": "Meghalaya",
+    "hero": "d48s045i0",
+    "regional": true,
+    "entries": [
+      {
+        "title": "Stone Monolith Visitor Centre",
+        "href": "/projects/monolith-visitor-centre/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "nokrek-citrus",
+    "title": "Citrus Gene Pool & Nokrek Base Camp",
+    "category": "Research / Eco-Tourism",
+    "location": "Nokrek region, Meghalaya",
+    "hero": "d48s046i0",
+    "regional": true,
+    "entries": [
+      {
+        "title": "Citrus Gene Pool & Nokrek Base Camp",
+        "href": "/projects/nokrek-citrus/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "godenggre-brewery",
+    "title": "Godenggre Brewery & Experience Centre",
+    "category": "Culture / Hospitality",
+    "location": "Godenggre, Meghalaya",
+    "hero": "d48s047i0",
+    "regional": true,
+    "entries": [
+      {
+        "title": "Godenggre Brewery & Experience Centre",
+        "href": "/projects/godenggre-brewery/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "rohbah-fish-sanctuary",
+    "title": "Rohbah Fish Sanctuary",
+    "category": "Conservation / Visitor Architecture",
+    "location": "Rohbah, Meghalaya",
+    "hero": "d48s048i0",
+    "regional": true,
+    "entries": [
+      {
+        "title": "Rohbah Fish Sanctuary",
+        "href": "/projects/rohbah-fish-sanctuary/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "elephant-centre",
+    "title": "Elephant Heritage & Conservation Centre",
+    "category": "Conservation / Interpretation",
+    "location": "Near Siju, Meghalaya",
+    "hero": "d48s049i0",
+    "regional": true,
+    "entries": [
+      {
+        "title": "Elephant Heritage & Conservation Centre",
+        "href": "/projects/elephant-centre/#chapter-1"
+      }
+    ]
+  },
+  {
+    "id": "bamboo-campus",
+    "title": "Bamboo Campus",
+    "category": "Craft / Community",
+    "location": "Dabit Ampangom, Baghmara, Meghalaya",
+    "hero": "d48s050i0",
+    "regional": true,
+    "entries": [
+      {
+        "title": "Bamboo Campus",
+        "href": "/projects/bamboo-campus/#chapter-1"
+      }
+    ]
+  }
+]

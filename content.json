@@ -1,0 +1,2769 @@
+{
+  "groups": [
+    {
+      "id": "sohra-culture",
+      "title": "Sohra Culture & Experience Centre",
+      "location": "Sohra, Meghalaya",
+      "category": "Culture",
+      "hero": "d34s029i0",
+      "body": "A cultural destination organised around water, performance and a public street. Roof forms draw on the Khasi knup, bringing local references into a contemporary ensemble of galleries, gathering spaces and hospitality. ",
+      "slides": [
+        {
+          "title": "A cultural landscape",
+          "body": "The masterplan connects the arrival sequence to performance venues, exhibition spaces and the cultural street.",
+          "images": [
+            "d34s019i0"
+          ],
+          "captions": "Masterplan",
+          "layout": "single",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "Architecture shaped by rain",
+          "body": "Layered roofs and sheltered edges frame the water and extend the public route through the site.",
+          "images": [
+            "d34s030i0",
+            "d34s020i0"
+          ],
+          "captions": [
+            "Waterfront visualisation",
+            "Landscape section"
+          ],
+          "layout": "stack",
+          "anchor": "chapter-2"
+        },
+        {
+          "title": "Performance & exhibition",
+          "body": "The auditorium and galleries bring different scales of public gathering into the same cultural campus.",
+          "images": [
+            "d34s036i0",
+            "d34s023i0"
+          ],
+          "captions": [
+            "Auditorium section",
+            "Exhibition rotunda visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-3"
+        },
+        {
+          "title": "The cultural street",
+          "body": "A continuous frontage gives the market and pedestrian spaces a shared architectural language.",
+          "images": [
+            "d34s039i0",
+            "d34s032i0"
+          ],
+          "captions": [
+            "Cultural street plans and sections",
+            "Gallery interior visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-4"
+        },
+        {
+          "title": "After dark",
+          "body": "Light draws out the roofs, colonnades and water edges.",
+          "images": [
+            "d34s034i0"
+          ],
+          "captions": "Aerial visualisation",
+          "layout": "single",
+          "anchor": "chapter-5"
+        }
+      ],
+      "number": 1,
+      "start": 5,
+      "end": 10
+    },
+    {
+      "id": "umiam-lake",
+      "title": "Umiam Lake",
+      "location": "Umiam, Meghalaya",
+      "category": "Landscape / Masterplanning",
+      "hero": "d00s005i0",
+      "body": "A collection of lakefront, cultural, residential and landscape studies around Umiam Lake. The work spans the public waterfront redevelopment and a wider masterplan for music, film, wellness, accommodation, craft and adventure.",
+      "slides": [
+        {
+          "title": "The wider lake masterplan",
+          "body": "Development clusters follow the terrain and retain the lake as the principal organising element.",
+          "images": [
+            "d01s030i0"
+          ],
+          "captions": "Overall masterplan visualisation",
+          "layout": "single",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "The public waterfront",
+          "body": "The detailed lakefront plan arranges arrival, recreation, food and cultural programmes as a walkable sequence.",
+          "images": [
+            "d00s017i0"
+          ],
+          "captions": "Lakefront masterplan",
+          "layout": "single",
+          "anchor": "chapter-2"
+        },
+        {
+          "title": "A family of lakefront buildings",
+          "body": "Distinct roof silhouettes give each destination its own identity while keeping an open relationship with the water.",
+          "images": [
+            "d00s006i0",
+            "d00s007i0"
+          ],
+          "captions": [
+            "Restaurant visualisation",
+            "Sail tower visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-3"
+        },
+        {
+          "title": "The market",
+          "body": "Open halls and a sheltered perimeter create places to browse, pause and gather.",
+          "images": [
+            "d00s012i0",
+            "d00s047i0"
+          ],
+          "captions": [
+            "Market interior visualisation",
+            "Market plan"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-4"
+        },
+        {
+          "title": "Plans, sections & roof forms",
+          "body": "The drawing studies test the relationship between structure, enclosure and the open public edge.",
+          "images": [
+            "d00s037i0",
+            "d00s038i0"
+          ],
+          "captions": [
+            "Pavilion plan and sections",
+            "Café plan and section"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-5"
+        },
+        {
+          "title": "Arrival & construction detail",
+          "body": "The arrival structures carry the architectural language into the boundary and entrance sequence.",
+          "images": [
+            "d00s053i0",
+            "d00s030i0"
+          ],
+          "captions": [
+            "Entrance section",
+            "Wall construction detail"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-6"
+        },
+        {
+          "title": "Music City & Music Academy",
+          "body": "Performance spaces, rehearsal and production facilities form a shared campus for learning, making and public gathering.",
+          "images": [
+            "d01s012i0",
+            "d01s013i0"
+          ],
+          "captions": [
+            "Music City masterplan study",
+            "Music Academy masterplan study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-7"
+        },
+        {
+          "title": "Wellness Centre & Luxury Villas",
+          "body": "The wider vision includes therapy, rehabilitation, meditation and accommodation. These are programme and masterplan studies within the lake development.",
+          "images": [
+            "d01s017i0"
+          ],
+          "captions": [
+            "Shared landscape masterplan used for the wellness and villa programme studies"
+          ],
+          "layout": "single",
+          "anchor": "chapter-8"
+        },
+        {
+          "title": "Senior Citizen Living",
+          "body": "A residential landscape is organised around shared green spaces and a network of walking routes.",
+          "images": [
+            "d01s015i0"
+          ],
+          "captions": [
+            "Senior living masterplan study"
+          ],
+          "layout": "single",
+          "anchor": "chapter-9"
+        },
+        {
+          "title": "Film City & Lakeside Hotel",
+          "body": "Film production and visitor accommodation are explored as distinct programmes within the wider Umiam vision.",
+          "images": [
+            "d01s010i0",
+            "d01s020i0"
+          ],
+          "captions": [
+            "Film City masterplan study",
+            "Lakeside hotel masterplan study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-10"
+        },
+        {
+          "title": "Adventure, craft & the wider landscape",
+          "body": "The wider programme also explores an Adventure Park, Echo Island, a Craft Village, glamping, the MECL Circuit House and a Sailing Club. Music-related components include a performing arts centre, recording studios, an ethno-musical centre and artist residencies. These are components of the Umiam masterplan vision, with different levels of design development.",
+          "images": [
+            "d01s005i0",
+            "d01s031i0"
+          ],
+          "captions": [
+            "Umiam programme zoning study",
+            "Overall Umiam masterplan visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-11"
+        }
+      ],
+      "number": 2,
+      "start": 11,
+      "end": 18
+    },
+    {
+      "id": "palliative-care",
+      "title": "Palliative Care & Housing",
+      "location": "Muzaffarpur, Bihar",
+      "category": "Healthcare / Housing",
+      "hero": "d62s050i0",
+      "body": "A palliative-care environment organised around gardens, courtyards and a low, curving architectural form. Clinical spaces and places for everyday life share a close connection with the landscape. Staff accommodation forms a related part of the campus studies.",
+      "slides": [
+        {
+          "title": "Building around the trees",
+          "body": "The concept develops a curving footprint within the planted site, with gardens between the building wings.",
+          "images": [
+            "d62s026i0",
+            "d62s045i0"
+          ],
+          "captions": [
+            "Concept development study",
+            "Roof and landscape visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "Care at ground level",
+          "body": "The plan brings rooms, shared spaces and sheltered circulation around a series of open courts.",
+          "images": [
+            "d24s012i0"
+          ],
+          "captions": "Ground-floor plan, May 2026 design",
+          "layout": "single",
+          "anchor": "chapter-2"
+        },
+        {
+          "title": "The section through care",
+          "body": "Low profiles and shaded circulation maintain a close relationship between interiors and outdoor space.",
+          "images": [
+            "d24s014i0",
+            "d62s043i0"
+          ],
+          "captions": [
+            "Sections and elevations",
+            "Courtyard circulation visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-3"
+        },
+        {
+          "title": "The everyday experience",
+          "body": "Daylight, views and accessible garden edges give the shared spaces a domestic scale.",
+          "images": [
+            "d62s046i0",
+            "d62s047i0"
+          ],
+          "captions": [
+            "Ward visualisation",
+            "Covered garden space visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-4"
+        },
+        {
+          "title": "Support buildings",
+          "body": "Nurses’ accommodation and administration extend the campus programme beyond the care building.",
+          "images": [
+            "d24s028i0",
+            "d24s036i0"
+          ],
+          "captions": [
+            "Nurses’ hostel elevation study",
+            "Administration elevation study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-5"
+        },
+        {
+          "title": "Campus housing",
+          "body": "The housing proposal groups residential blocks around landscaped shared spaces.",
+          "images": [
+            "d62s087i0"
+          ],
+          "captions": "Housing visualisation",
+          "layout": "single",
+          "anchor": "chapter-6"
+        },
+        {
+          "title": "Housing typologies",
+          "body": "Unit and cluster studies explore repeatable residential arrangements alongside the campus landscape.",
+          "images": [
+            "d62s080i0",
+            "d62s082i0"
+          ],
+          "captions": [
+            "Type III cluster plan",
+            "Housing section"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-7"
+        }
+      ],
+      "number": 3,
+      "start": 19,
+      "end": 26
+    },
+    {
+      "id": "tura-administration",
+      "title": "Tura Integrated Administrative Complex",
+      "location": "Tura, Meghalaya",
+      "category": "Civic Architecture",
+      "hero": "d39s027i0",
+      "body": "A civic campus that brings administrative functions beneath a strong shared roof. Public circulation, courtyards and the surrounding landscape give the complex a spatial identity beyond its office programme.",
+      "slides": [
+        {
+          "title": "The civic campus",
+          "body": "The site plan connects administrative buildings, public approaches and associated accommodation across the terrain.",
+          "images": [
+            "d39s013i0"
+          ],
+          "captions": "Campus masterplan",
+          "layout": "single",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "A shared roof",
+          "body": "A broad roof and colonnade establish a continuous architectural order across the public frontage.",
+          "images": [
+            "d39s018i0",
+            "d39s025i0"
+          ],
+          "captions": [
+            "Site section",
+            "Colonnade visualisation"
+          ],
+          "layout": "stack",
+          "anchor": "chapter-2"
+        },
+        {
+          "title": "Public rooms",
+          "body": "Courts and interior gathering spaces punctuate the administrative programme.",
+          "images": [
+            "d39s032i0",
+            "d39s036i0"
+          ],
+          "captions": [
+            "Roof court visualisation",
+            "Library visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-3"
+        },
+        {
+          "title": "Planning & accommodation",
+          "body": "The building plans and residential studies show the relationship between the civic programme and its supporting campus.",
+          "images": [
+            "d39s020i0",
+            "d39s044i0"
+          ],
+          "captions": [
+            "Administrative floor plan",
+            "Accommodation plan"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-4"
+        }
+      ],
+      "number": 4,
+      "start": 27,
+      "end": 31
+    },
+    {
+      "id": "shillong-public-realm",
+      "title": "Shillong Public Realm",
+      "location": "Shillong, Meghalaya",
+      "category": "Urban Design / Landscape",
+      "hero": "d13s004i0",
+      "body": "A connected set of proposals for the Polo riverfront, Ward’s Lake and surrounding public spaces. The work combines landscape, movement, recreation and supporting buildings, with design development at both city and building scale.",
+      "slides": [
+        {
+          "title": "Polo riverfront masterplan",
+          "body": "Sports grounds and new public spaces share a continuous river edge.",
+          "images": [
+            "d13s002i0"
+          ],
+          "captions": "Polo riverfront masterplan",
+          "layout": "single",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "Riverfront connections",
+          "body": "The promenade combines planted edges, gathering spaces and routes between destinations.",
+          "images": [
+            "d11s040i0",
+            "d11s031i0"
+          ],
+          "captions": [
+            "Riverfront visualisation",
+            "Riverfront sections"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-2"
+        },
+        {
+          "title": "Ward’s Lake Promenade",
+          "body": "The wider public-space network connects the lake to cafés, gardens and the riverfront.",
+          "images": [
+            "d16s004i0",
+            "d16s027i0"
+          ],
+          "captions": [
+            "Public-space network plan",
+            "Lakeside promenade visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-3"
+        },
+        {
+          "title": "Ward’s Lake Redevelopment",
+          "body": "The proposals bring new facilities into the existing landscape through a series of focused interventions.",
+          "images": [
+            "d17s018i0",
+            "d17s033i0"
+          ],
+          "captions": [
+            "Greenhouse visualisation",
+            "Bridge visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-4"
+        },
+        {
+          "title": "Ward’s Lake Experience Centre",
+          "body": "A vertical marker rises above a low building integrated with the lakeside terrain.",
+          "images": [
+            "d18s024i0",
+            "d18s029i0"
+          ],
+          "captions": [
+            "Section and elevation studies",
+            "Experience centre visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-5"
+        },
+        {
+          "title": "Exhibition spaces",
+          "body": "The experience centre develops a sequence of themed interiors and open public spaces.",
+          "images": [
+            "d17s044i0",
+            "d17s049i0"
+          ],
+          "captions": [
+            "Experience centre plan",
+            "Exhibition interior visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-6"
+        },
+        {
+          "title": "Sports hostel",
+          "body": "Accommodation and shared functions occupy a building with a clear public frontage and internal gathering spaces.",
+          "images": [
+            "d19s019i0",
+            "d19s007i0"
+          ],
+          "captions": [
+            "Sports hostel visualisation",
+            "Building section"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-7"
+        },
+        {
+          "title": "Polo Multi-Level Parking & SRGT Sports Tower",
+          "body": "The Polo parking and sports studies combine infrastructure with a compact vertical programme.",
+          "images": [
+            "d12s012i0",
+            "d13s019i0"
+          ],
+          "captions": [
+            "Polo parking site plan",
+            "Polo sports tower visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-8"
+        },
+        {
+          "title": "Polo Hawkers’ Market",
+          "body": "Trading space and everyday facilities complete the public-realm programme.",
+          "images": [
+            "d13s033i0",
+            "d13s034i0"
+          ],
+          "captions": [
+            "Hawkers’ market visualisation",
+            "Market section"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-9"
+        },
+        {
+          "title": "Governor’s Herbal Garden",
+          "body": "Elevated paths, polyhouses, an amphitheatre and spaces for play and wellbeing are set among existing trees near Ward’s Lake.",
+          "images": [
+            "d15s013i0",
+            "d15s017i0",
+            "d15s019i0"
+          ],
+          "captions": [
+            "Garden visualisation",
+            "Herbal garden masterplan",
+            "Garden at night"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-10"
+        },
+        {
+          "title": "Polo Sports Towers",
+          "body": "The riverfront masterplan studies two vertical sports programmes: an SRGT tower and a second tower on the smaller Part F site. Courts, changing facilities and public uses are stacked to work within the available footprints.",
+          "images": [
+            "d13s018i1",
+            "d13s027i0"
+          ],
+          "captions": [
+            "SRGT sports tower — tennis and squash level",
+            "Part F sports tower section"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-11"
+        }
+      ],
+      "number": 5,
+      "start": 32,
+      "end": 41
+    },
+    {
+      "id": "new-shillong",
+      "title": "New Shillong",
+      "location": "New Shillong, Meghalaya",
+      "category": "Urban Planning / Mixed Programme",
+      "hero": "d27s055i0",
+      "body": "A city-scale framework supported by proposals for housing, mobility, work and recreation. The portfolio follows the work from the road and landscape structure into individual buildings and residential typologies.",
+      "slides": [
+        {
+          "title": "The urban framework",
+          "body": "Land use and movement studies establish the structure for new development.",
+          "images": [
+            "d27s023i0",
+            "d27s027i0"
+          ],
+          "captions": [
+            "Land-use study",
+            "Road network study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "The boulevard",
+          "body": "A continuous landscape connects stepped public spaces, planting and movement along the boulevard.",
+          "images": [
+            "d28s003i0",
+            "d28s005i0"
+          ],
+          "captions": [
+            "Boulevard masterplan",
+            "Stepped landscape study"
+          ],
+          "layout": "stack",
+          "anchor": "chapter-2"
+        },
+        {
+          "title": "Affordable housing",
+          "body": "The proposal groups compact homes within a planted residential setting.",
+          "images": [
+            "d25s003i0",
+            "d25s010i0"
+          ],
+          "captions": [
+            "Housing visualisation",
+            "Site plan"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-3"
+        },
+        {
+          "title": "Residential typologies",
+          "body": "Simplex and duplex studies develop the relationship between individual homes, circulation and shared space.",
+          "images": [
+            "d25s012i0",
+            "d25s015i0"
+          ],
+          "captions": [
+            "Residential floor plans",
+            "Simplex typology"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-4"
+        },
+        {
+          "title": "Premium housing",
+          "body": "A separate housing study organises larger residences around courts and the hillside landscape.",
+          "images": [
+            "d26s020i0",
+            "d26s011i0"
+          ],
+          "captions": [
+            "Premium housing visualisation",
+            "Four-bedroom unit study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-5"
+        },
+        {
+          "title": "Prime Hub",
+          "body": "The incubation hub combines a low horizontal building with a vertical marker, set into the sloping site.",
+          "images": [
+            "d29s037i0",
+            "d29s030i0"
+          ],
+          "captions": [
+            "Prime Hub visualisation",
+            "Site section"
+          ],
+          "layout": "stack",
+          "anchor": "chapter-6"
+        },
+        {
+          "title": "Prime Hub planning",
+          "body": "Workspaces and shared facilities surround internal open space.",
+          "images": [
+            "d29s032i0",
+            "d29s033i0"
+          ],
+          "captions": [
+            "Ground-level plan",
+            "Level-one plan"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-7"
+        },
+        {
+          "title": "Prime Hub extension",
+          "body": "The extension study adds a pair of taller volumes connected by a shared lower building.",
+          "images": [
+            "d32s025i0",
+            "d32s019i0"
+          ],
+          "captions": [
+            "Extension visualisation",
+            "Building sections"
+          ],
+          "layout": "stack",
+          "anchor": "chapter-8"
+        },
+        {
+          "title": "The bus terminal",
+          "body": "A broad shelter and a vertical landmark give the transport interchange a civic presence.",
+          "images": [
+            "d30s033i0"
+          ],
+          "captions": "Bus terminal visualisation",
+          "layout": "single",
+          "anchor": "chapter-9"
+        },
+        {
+          "title": "Terminal organisation",
+          "body": "Stacked programmes and the site section separate movement and support functions within the sloping terrain.",
+          "images": [
+            "d30s023i0",
+            "d30s030i0"
+          ],
+          "captions": [
+            "Terminal floor plans",
+            "Building section"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-10"
+        },
+        {
+          "title": "The sports tower",
+          "body": "A compact vertical arrangement brings recreation into a small footprint.",
+          "images": [
+            "d33s005i0",
+            "d33s009i0"
+          ],
+          "captions": [
+            "Sports tower section",
+            "Night visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-11"
+        }
+      ],
+      "number": 6,
+      "start": 42,
+      "end": 53
+    },
+    {
+      "id": "mandalgre",
+      "title": "Mandalgre Cultural Centre",
+      "location": "Mandalgre, Meghalaya",
+      "category": "Culture / Landscape",
+      "hero": "d21s026i0",
+      "body": "A cultural building spanning a planted valley. The elevated form preserves a continuous landscape beneath, while a linking tower and bridge give access to galleries, research spaces and public programmes.",
+      "slides": [
+        {
+          "title": "A bridge across the terrain",
+          "body": "The project uses the section to connect different levels while retaining the landscape as a continuous surface.",
+          "images": [
+            "d21s016i0",
+            "d21s018i0"
+          ],
+          "captions": [
+            "Section study",
+            "Masterplan"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "Programme & accommodation",
+          "body": "Public cultural functions occupy the principal building, with residential accommodation as a related component.",
+          "images": [
+            "d21s019i0",
+            "d21s023i0"
+          ],
+          "captions": [
+            "Ground-floor plan",
+            "Accommodation plan"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-2"
+        }
+      ],
+      "number": 7,
+      "start": 54,
+      "end": 56
+    },
+    {
+      "id": "nongnah",
+      "title": "Nongnah Geology Museum",
+      "location": "Nongnah, Meghalaya",
+      "category": "Museum / Hospitality",
+      "hero": "d48s043i0",
+      "body": "A museum and hospitality study developed through the section of a steep landscape. The programme places galleries, food, accommodation and wellness uses at different levels around a shared visitor sequence.",
+      "slides": [
+        {
+          "title": "Programme across levels",
+          "body": "The lower-ground and terrace studies document the distribution of the museum’s public and supporting uses.",
+          "images": [
+            "d23s009i0",
+            "d23s012i0"
+          ],
+          "captions": [
+            "Lower-ground floor plan",
+            "Terrace plan"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        }
+      ],
+      "number": 8,
+      "start": 57,
+      "end": 58
+    },
+    {
+      "id": "sohra-cement",
+      "title": "Sohra Cement Factory Redevelopment",
+      "location": "Sohra, Meghalaya",
+      "category": "Adaptive Reuse",
+      "hero": "d35s043i0",
+      "body": "An adaptive-reuse proposal for the cement factory that treats rain as part of the public experience. Retained industrial structures support a new cultural destination with covered routes, performance, exhibition and gathering spaces.",
+      "slides": [
+        {
+          "title": "An industrial campus reopened",
+          "body": "The masterplan reuses the factory’s spatial structure and connects new activities through a covered pedestrian spine.",
+          "images": [
+            "d35s039i0",
+            "d35s049i0"
+          ],
+          "captions": [
+            "Redevelopment masterplan",
+            "Campus visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "Rain, performance & the silos",
+          "body": "New programmes occupy the spaces between and within the industrial structures.",
+          "images": [
+            "d35s045i0",
+            "d35s047i0"
+          ],
+          "captions": [
+            "Amphitheatre visualisation",
+            "Silo restaurant visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-2"
+        }
+      ],
+      "number": 9,
+      "start": 59,
+      "end": 61
+    },
+    {
+      "id": "pelga-falls",
+      "title": "Pelga Falls",
+      "location": "Tura, Meghalaya",
+      "category": "Landscape / Visitor Architecture",
+      "hero": "d36s016i0",
+      "body": "A visitor destination centred on the falls and river crossing. The proposal combines a bridge and restaurant with small accommodation units and a visitor centre, using the terrain to organise the sequence.",
+      "slides": [
+        {
+          "title": "Bridge & river section",
+          "body": "The crossing becomes an occupied architectural element within the landscape.",
+          "images": [
+            "d36s004i0",
+            "d36s005i0"
+          ],
+          "captions": [
+            "Bridge and restaurant plan",
+            "River crossing section"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "Staying in the landscape",
+          "body": "Small huts and visitor facilities extend the programme beyond the crossing.",
+          "images": [
+            "d36s014i0",
+            "d36s007i0"
+          ],
+          "captions": [
+            "Accommodation visualisation",
+            "Log-hut typology study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-2"
+        }
+      ],
+      "number": 10,
+      "start": 62,
+      "end": 64
+    },
+    {
+      "id": "tura-city",
+      "title": "Tura Promenade & City Projects",
+      "location": "Tura, Meghalaya",
+      "category": "Urban Design / Civic Programme",
+      "hero": "d37s024i0",
+      "body": "A collection of civic, cultural and public-realm interventions in Tura. The promenade connects new places for cinema, active ageing, markets, sport, hospitality and community life, supported by work on junctions and street identity.",
+      "slides": [
+        {
+          "title": "City park",
+          "body": "The park combines an open public landscape with a roofed pavilion and supporting facilities.",
+          "images": [
+            "d37s020i0",
+            "d37s026i0"
+          ],
+          "captions": [
+            "Park masterplan",
+            "Pavilion interior visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "Youth centre",
+          "body": "A stepped cultural and youth programme occupies the terrain around a shared public approach.",
+          "images": [
+            "d40s024i0",
+            "d40s022i0"
+          ],
+          "captions": [
+            "Youth centre visualisation",
+            "Youth centre section"
+          ],
+          "layout": "stack",
+          "anchor": "chapter-2"
+        },
+        {
+          "title": "Tura Hotel",
+          "body": "Guest accommodation, shared facilities and the public plaza form part of the wider Youth Centre and Hotel complex.",
+          "images": [
+            "d40s029i0",
+            "d40s020i0"
+          ],
+          "captions": [
+            "Tura Hotel visualisation",
+            "Hotel sections"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-3"
+        },
+        {
+          "title": "Tura Convention Centre",
+          "body": "An auditorium, multipurpose spaces, seminar rooms, food facilities and accommodation support cultural gathering and year-round activity.",
+          "images": [
+            "d48s034i0",
+            "d48s034i1"
+          ],
+          "captions": [
+            "Convention centre section",
+            "Convention centre design study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-4"
+        },
+        {
+          "title": "SMELC Cinema",
+          "body": "A cinema-led public programme combines performance, food and recreation with parking.",
+          "images": [
+            "d38s004i0",
+            "d38s008i0"
+          ],
+          "captions": [
+            "SMELC cinema visualisation",
+            "Cinema plans and programme"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-5"
+        },
+        {
+          "title": "Active Ageing Centre",
+          "body": "A community pavilion, library, meditation and wellness spaces meet a public plaza and parking at the MTC site.",
+          "images": [
+            "d38s010i0",
+            "d38s013i0"
+          ],
+          "captions": [
+            "Active Ageing Centre visualisation",
+            "Centre plans"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-6"
+        },
+        {
+          "title": "Najing Bazar",
+          "body": "A market and gathering-place proposal combines commercial frontages with an open public court.",
+          "images": [
+            "d38s017i0",
+            "d38s020i0"
+          ],
+          "captions": [
+            "Najing Bazar visualisation",
+            "Building section"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-7"
+        },
+        {
+          "title": "Vegetable Market, Najing Bazar",
+          "body": "The market follows the steep terrain through a sequence of stepped platforms, shops and sheltered vendor spaces. Circular canopies, planted openings and linked pedestrian routes bring shade and light into the public marketplace.",
+          "images": [
+            "pdf-vegetable-plan",
+            "pdf-vegetable-section",
+            "pdf-vegetable-detail"
+          ],
+          "captions": [
+            "Vegetable Market — roof and lower floor plans / Archohm",
+            "Long section through the stepped market / Archohm",
+            "Canopy, seating and planted opening details / Archohm"
+          ],
+          "layout": "stack",
+          "anchor": "chapter-8"
+        },
+        {
+          "title": "Aramile Plaza, Kids Zone & Multi-Level Parking",
+          "body": "A commercial plaza integrates shops, stacked parking, a café and a vertical play space. Developed drawings describe the scheme as the Kids Zone and Multi-Level Car Parking at Aramaile.",
+          "images": [
+            "d38s027i0",
+            "d38s029i0"
+          ],
+          "captions": [
+            "Aramile plaza visualisation",
+            "Parking and commercial programme study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-9"
+        },
+        {
+          "title": "Chandmari Commercial Complex",
+          "body": "A public plaza and shopping spaces are combined with parking and offices within a compact urban site.",
+          "images": [
+            "d38s031i0",
+            "d38s034i0"
+          ],
+          "captions": [
+            "Chandmari commercial complex visualisation",
+            "Complex plans"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-10"
+        },
+        {
+          "title": "Kendriya Vidyalaya Sports Field",
+          "body": "A landscape intervention introduces sports courts and a children’s park along the school stretch.",
+          "images": [
+            "d38s025i0",
+            "d38s024i0"
+          ],
+          "captions": [
+            "Sports field visualisation",
+            "Sports field site plan"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-11"
+        },
+        {
+          "title": "Tura Promenade",
+          "body": "Pedestrian routes and a consistent street section connect the wider programme of public spaces.",
+          "images": [
+            "d38s037i0",
+            "d38s040i0"
+          ],
+          "captions": [
+            "Promenade site plan",
+            "Typical street plan and elevation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-12"
+        },
+        {
+          "title": "Tura Junctions",
+          "body": "The junction studies use landscape, circulation and civic elements to define public spaces along the city’s road network.",
+          "images": [
+            "d41s020i0"
+          ],
+          "captions": [
+            "Junction design study"
+          ],
+          "layout": "single",
+          "anchor": "chapter-13"
+        },
+        {
+          "title": "Tura Market redevelopment",
+          "body": "A roof canopy and new public frontage redefine the existing market building.",
+          "images": [
+            "d46s006i0",
+            "d46s017i0"
+          ],
+          "captions": [
+            "Market redevelopment visualisation",
+            "Market section study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-14"
+        },
+        {
+          "title": "Colour & city identity",
+          "body": "Façade studies explore a coordinated material and colour language for the streetscape.",
+          "images": [
+            "d45s014i0",
+            "d45s015i0"
+          ],
+          "captions": [
+            "Existing street frontage",
+            "Proposed façade treatment"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-15"
+        }
+      ],
+      "number": 11,
+      "start": 65,
+      "end": 76
+    },
+    {
+      "id": "bodoland-study",
+      "title": "What Bodoland Needs",
+      "location": "Bodoland, Assam",
+      "category": "Regional Study",
+      "hero": "d48s053i0",
+      "body": "A regional design study that links cultural identity and landscape to possible civic, tourism and infrastructure interventions. The framework recognises distinct roles for different districts rather than treating the region as a single development site.",
+      "slides": [
+        {
+          "title": "Districts & development priorities",
+          "body": "Kokrajhar: administration and culture\nChirang: ecology and agriculture\nBaksa: adventure and resilience\nTamulpur: new civic development\nUdalguri: border logistics",
+          "images": [
+            "d48s054i0"
+          ],
+          "captions": "Regional study map",
+          "layout": "essay",
+          "anchor": "chapter-1"
+        }
+      ],
+      "number": 12,
+      "start": 77,
+      "end": 78
+    },
+    {
+      "id": "farmers-market",
+      "title": "Bodoland Farmers’ Market",
+      "location": "Bodoland, Assam",
+      "category": "Market / Community",
+      "hero": "d49s038i0",
+      "body": "A concept for a market as a shared community destination. Three connected circular spaces accommodate trade and gathering, with covered edges and open courts expressing the relationship between local exchange and public life.",
+      "slides": [
+        {
+          "title": "Three circles of activity",
+          "body": "The form-development study brings exchange, gathering and celebration into an interconnected plan.",
+          "images": [
+            "d49s036i0",
+            "d49s037i0"
+          ],
+          "captions": [
+            "Concept development",
+            "Concept model visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        }
+      ],
+      "number": 13,
+      "start": 79,
+      "end": 80
+    },
+    {
+      "id": "bodoland-stadium",
+      "title": "Bodoland Stadium",
+      "location": "Baksa, Bodoland, Assam",
+      "category": "Sports / Community",
+      "hero": "d50s042i0",
+      "body": "A sports-campus study exploring the architectural possibilities of woven form. Alternative schemes test the relationship between a football ground, additional courts, spectator facilities and the surrounding river landscape.",
+      "slides": [
+        {
+          "title": "Two stadium studies",
+          "body": "The design alternatives explore a rectilinear campus and an oval enclosure with a woven architectural expression.",
+          "images": [
+            "d50s034i0",
+            "d50s043i0"
+          ],
+          "captions": [
+            "Rectilinear scheme visualisation",
+            "Oval scheme plan"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        }
+      ],
+      "number": 14,
+      "start": 81,
+      "end": 82
+    },
+    {
+      "id": "bogamati",
+      "title": "Bogamati Riverfront",
+      "location": "Bogamati, Bodoland, Assam",
+      "category": "Landscape / Tourism",
+      "hero": "d51s032i0",
+      "body": "A landscape concept along the river at the Bhutan foothills. A continuous promenade connects nature-based recreation with cultural activities and hospitality, organised as distinct destinations within a larger planted setting.",
+      "slides": [
+        {
+          "title": "A sequence along the river",
+          "body": "The masterplan places the river and its edge at the centre of the visitor experience.",
+          "images": [
+            "d51s030i0",
+            "d51s033i0"
+          ],
+          "captions": [
+            "Riverfront masterplan",
+            "Hospitality and wellness zone"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        }
+      ],
+      "number": 15,
+      "start": 83,
+      "end": 84
+    },
+    {
+      "id": "dc-park",
+      "title": "DC Park",
+      "location": "Tura, Meghalaya",
+      "category": "Public Landscape",
+      "hero": "d54s025i0",
+      "body": "A park concept that translates the chessboard into a planted public landscape. A modular grid supports routes, play, gathering spaces and a family of small pavilions, with variations in scale and activity across the site.",
+      "slides": [
+        {
+          "title": "Chessboard to landscape",
+          "body": "The concept studies use abstraction and movement to turn the grid into a landscape structure.",
+          "images": [
+            "d54s038i0",
+            "d54s024i0"
+          ],
+          "captions": [
+            "Concept development",
+            "Park plan visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "Pavilions & the public edge",
+          "body": "Small buildings and landscape elements share a modular architectural language.",
+          "images": [
+            "d54s039i0",
+            "d54s040i0"
+          ],
+          "captions": [
+            "Chess pavilion visualisation",
+            "Cafeteria visualisation"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-2"
+        },
+        {
+          "title": "Details at walking pace",
+          "body": "Paving, seating and wayfinding extend the chess theme into the scale of everyday use.",
+          "images": [
+            "d54s043i0",
+            "d54s045i0"
+          ],
+          "captions": [
+            "Seating and paving study",
+            "Wayfinding study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-3"
+        }
+      ],
+      "number": 16,
+      "start": 85,
+      "end": 88
+    },
+    {
+      "id": "shillong-healthcare",
+      "title": "Shillong Healthcare Campuses",
+      "location": "Shillong, Meghalaya",
+      "category": "Healthcare / Campus Planning",
+      "hero": "d55s014i0",
+      "body": "A group of proposals for Civil Hospital, Red Cross accommodation and Ganesh Das Hospital. The work covers campus reorganisation, clinical blocks, staff housing and the relationship between hospital buildings and restorative outdoor spaces.",
+      "slides": [
+        {
+          "title": "Civil Hospital campus",
+          "body": "The redevelopment study reorganises clinical and supporting functions within the existing campus.",
+          "images": [
+            "d55s010i0",
+            "d55s009i0"
+          ],
+          "captions": [
+            "Campus plan",
+            "Proposed intervention study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "Oncology block",
+          "body": "The building studies coordinate clinical floors with circulation, services and the hospital section.",
+          "images": [
+            "d55s022i0",
+            "d55s019i0"
+          ],
+          "captions": [
+            "Clinical floor plans",
+            "Building section study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-2"
+        },
+        {
+          "title": "Operating theatre block",
+          "body": "The OT and ICU studies document the stacked clinical programme and its structural organisation.",
+          "images": [
+            "d56s007i0",
+            "d56s010i0"
+          ],
+          "captions": [
+            "Typical operating theatre floors",
+            "OT block section"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-3"
+        },
+        {
+          "title": "Red Cross accommodation",
+          "body": "A separate accommodation proposal combines residential floors with a raised building form and shared access.",
+          "images": [
+            "d57s009i0",
+            "d57s006i0"
+          ],
+          "captions": [
+            "Red Cross accommodation visualisation",
+            "First- and second-floor plans"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-4"
+        },
+        {
+          "title": "Ganesh Das Hospital",
+          "body": "The masterplan study considers retained buildings, new development and internal movement across the hospital site.",
+          "images": [
+            "d58s006i0",
+            "d58s019i0"
+          ],
+          "captions": [
+            "Hospital masterplan study",
+            "Campus section study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-5"
+        }
+      ],
+      "number": 17,
+      "start": 89,
+      "end": 94
+    },
+    {
+      "id": "tura-study",
+      "title": "What Tura City Needs",
+      "location": "Tura, Meghalaya",
+      "category": "Urban Research / Identity",
+      "hero": "d47s033i0",
+      "body": "An urban study of Tura’s growth, public space, mobility and cultural identity. Mapping and observations inform a vision for a walkable town, supported by a family of wayfinding and street elements.",
+      "slides": [
+        {
+          "title": "What Tura needs",
+          "body": "The city study connects infrastructure and land-use analysis with a programme of public-space and civic interventions.",
+          "images": [
+            "d47s033i0",
+            "d47s037i0"
+          ],
+          "captions": [
+            "Existing land-use study",
+            "Urban traffic study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        },
+        {
+          "title": "Urban identity & furniture",
+          "body": "Identity, signage and furniture studies carry local references into the everyday public realm.",
+          "images": [
+            "d47s075i0",
+            "d47s091i0",
+            "d47s097i0"
+          ],
+          "captions": [
+            "Tura identity option",
+            "Bench study",
+            "Illuminated bollard study"
+          ],
+          "layout": "triple",
+          "anchor": "chapter-2"
+        }
+      ],
+      "number": 18,
+      "start": 65,
+      "end": 76
+    },
+    {
+      "id": "sakal-aduma",
+      "title": "Sakal-Aduma Eco-Resort",
+      "location": "Sakal-Aduma, Meghalaya",
+      "category": "Hospitality / Landscape",
+      "hero": "d48s039i0",
+      "body": "An eco-resort proposal follows the hillside with visitor facilities, cottages, tree houses and camping retreats. The study explores a close relationship between accommodation, terrain and the surrounding landscape.",
+      "slides": [
+        {
+          "title": "Site, programme & form",
+          "body": "An eco-resort proposal follows the hillside with visitor facilities, cottages, tree houses and camping retreats. The study explores a close relationship between accommodation, terrain and the surrounding landscape.",
+          "images": [
+            "d48s039i0",
+            "d48s039i1"
+          ],
+          "captions": [
+            "Hillside section",
+            "Resort site study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        }
+      ],
+      "collection": "Meghalaya regional proposals",
+      "number": 19
+    },
+    {
+      "id": "jakrem-hot-springs",
+      "title": "Jakrem Hot Spring Spa & Resort",
+      "location": "Jakrem / Lawblei, Meghalaya",
+      "category": "Wellness / Landscape",
+      "hero": "d48s042i0",
+      "body": "A visitor and wellness destination organised around the hot spring landscape. The programme brings together pools, interpretation, a water café, yoga and meditation spaces, and accommodation.",
+      "slides": [
+        {
+          "title": "Site, programme & form",
+          "body": "A visitor and wellness destination organised around the hot spring landscape. The programme brings together pools, interpretation, a water café, yoga and meditation spaces, and accommodation.",
+          "images": [
+            "d48s042i0",
+            "d48s042i1"
+          ],
+          "captions": [
+            "Site plan",
+            "Landscape section"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        }
+      ],
+      "collection": "Meghalaya regional proposals",
+      "number": 20
+    },
+    {
+      "id": "natural-history-complex",
+      "title": "Natural History Complex",
+      "location": "Meghalaya",
+      "category": "Museum / Research",
+      "hero": "d48s044i0",
+      "body": "A hillside campus combines research, laboratories and teaching with visitor interpretation and accommodation. Its planning responds to a road dividing the sloping site and the surrounding landscape.",
+      "slides": [
+        {
+          "title": "Site, programme & form",
+          "body": "A hillside campus combines research, laboratories and teaching with visitor interpretation and accommodation. Its planning responds to a road dividing the sloping site and the surrounding landscape.",
+          "images": [
+            "d48s044i0",
+            "d48s044i1"
+          ],
+          "captions": [
+            "Campus masterplan",
+            "Architectural design study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        }
+      ],
+      "collection": "Meghalaya regional proposals",
+      "number": 21
+    },
+    {
+      "id": "monolith-visitor-centre",
+      "title": "Stone Monolith Visitor Centre",
+      "location": "Meghalaya",
+      "category": "Heritage / Visitor Architecture",
+      "hero": "d48s045i0",
+      "body": "A visitor proposal for a monolith landscape combines orientation, heritage interpretation, gathering spaces and amenities. The design studies how access and visitor comfort can support the experience of the cultural site.",
+      "slides": [
+        {
+          "title": "Site, programme & form",
+          "body": "A visitor proposal for a monolith landscape combines orientation, heritage interpretation, gathering spaces and amenities. The design studies how access and visitor comfort can support the experience of the cultural site.",
+          "images": [
+            "d48s045i0",
+            "d48s045i1"
+          ],
+          "captions": [
+            "Visitor centre section",
+            "Site and landscape study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        }
+      ],
+      "collection": "Meghalaya regional proposals",
+      "number": 22
+    },
+    {
+      "id": "nokrek-citrus",
+      "title": "Citrus Gene Pool & Nokrek Base Camp",
+      "location": "Nokrek region, Meghalaya",
+      "category": "Research / Eco-Tourism",
+      "hero": "d48s046i0",
+      "body": "A landscape-led research and visitor programme connects citrus cultivation, interpretation and innovation with a base camp for exploring the Nokrek region. The study combines a fruit history centre, research facilities and visitor spaces.",
+      "slides": [
+        {
+          "title": "Site, programme & form",
+          "body": "A landscape-led research and visitor programme connects citrus cultivation, interpretation and innovation with a base camp for exploring the Nokrek region. The study combines a fruit history centre, research facilities and visitor spaces.",
+          "images": [
+            "d48s046i0",
+            "d48s046i1"
+          ],
+          "captions": [
+            "Landscape section",
+            "Site planning study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        }
+      ],
+      "collection": "Meghalaya regional proposals",
+      "number": 23
+    },
+    {
+      "id": "godenggre-brewery",
+      "title": "Godenggre Brewery & Experience Centre",
+      "location": "Godenggre, Meghalaya",
+      "category": "Culture / Hospitality",
+      "hero": "d48s047i0",
+      "body": "A visitor programme near the Wangala festival grounds explores local brewing traditions through production, tasting and an experience gallery. A beer café, connecting bridges and public roof space are considered within the landscape.",
+      "slides": [
+        {
+          "title": "Site, programme & form",
+          "body": "A visitor programme near the Wangala festival grounds explores local brewing traditions through production, tasting and an experience gallery. A beer café, connecting bridges and public roof space are considered within the landscape.",
+          "images": [
+            "d48s047i0",
+            "d48s047i1"
+          ],
+          "captions": [
+            "Campus visualisation",
+            "Architectural design study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        }
+      ],
+      "collection": "Meghalaya regional proposals",
+      "number": 24
+    },
+    {
+      "id": "rohbah-fish-sanctuary",
+      "title": "Rohbah Fish Sanctuary",
+      "location": "Rohbah, Meghalaya",
+      "category": "Conservation / Visitor Architecture",
+      "hero": "d48s048i0",
+      "body": "A visitor intervention at the Rilang River Fish Sanctuary responds to the river edge and its conservation setting. The proposal studies a compact building and associated public landscape.",
+      "slides": [
+        {
+          "title": "Site, programme & form",
+          "body": "A visitor intervention at the Rilang River Fish Sanctuary responds to the river edge and its conservation setting. The proposal studies a compact building and associated public landscape.",
+          "images": [
+            "d48s048i0",
+            "d48s048i1"
+          ],
+          "captions": [
+            "Sanctuary site plan",
+            "Visitor building study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        }
+      ],
+      "collection": "Meghalaya regional proposals",
+      "number": 25
+    },
+    {
+      "id": "elephant-centre",
+      "title": "Elephant Heritage & Conservation Centre",
+      "location": "Near Siju, Meghalaya",
+      "category": "Conservation / Interpretation",
+      "hero": "d48s049i0",
+      "body": "A centre along an elephant corridor combines visitor interpretation, exhibition and public amenities with veterinary facilities. The study explores separate elephant and visitor routes within the wider landscape.",
+      "slides": [
+        {
+          "title": "Site, programme & form",
+          "body": "A centre along an elephant corridor combines visitor interpretation, exhibition and public amenities with veterinary facilities. The study explores separate elephant and visitor routes within the wider landscape.",
+          "images": [
+            "d48s049i0",
+            "d48s049i1"
+          ],
+          "captions": [
+            "Landscape section",
+            "Centre design study"
+          ],
+          "layout": "pair",
+          "anchor": "chapter-1"
+        }
+      ],
+      "collection": "Meghalaya regional proposals",
+      "number": 26
+    },
+    {
+      "id": "bamboo-campus",
+      "title": "Bamboo Campus",
+      "location": "Dabit Ampangom, Baghmara, Meghalaya",
+      "category": "Craft / Community",
+      "hero": "d48s050i0",
+      "body": "A riverside campus explores bamboo as a material and an organising idea. Visitor facilities, workshops, a restaurant and accommodation are linked by public spaces, viewing areas and an amphitheatre.",
+      "slides": [
+        {
+          "title": "Site, programme & form",
+          "body": "A riverside campus explores bamboo as a material and an organising idea. Visitor facilities, workshops, a restaurant and accommodation are linked by public spaces, viewing areas and an amphitheatre.",
+          "images": [
+            "d48s050i0"
+          ],
+          "captions": [
+            "Riverside campus section"
+          ],
+          "layout": "single",
+          "anchor": "chapter-1"
+        }
+      ],
+      "collection": "Meghalaya regional proposals",
+      "number": 27
+    }
+  ],
+  "slides": [
+    {
+      "type": "cover"
+    },
+    {
+      "type": "profile"
+    },
+    {
+      "type": "contents",
+      "part": 0
+    },
+    {
+      "type": "contents",
+      "part": 1
+    },
+    {
+      "type": "open",
+      "group": "sohra-culture"
+    },
+    {
+      "type": "project",
+      "group": "sohra-culture",
+      "title": "A cultural landscape",
+      "body": "The masterplan connects the arrival sequence to performance venues, exhibition spaces and the cultural street.",
+      "images": [
+        "d34s019i0"
+      ],
+      "captions": "Masterplan",
+      "layout": "single"
+    },
+    {
+      "type": "project",
+      "group": "sohra-culture",
+      "title": "Architecture shaped by rain",
+      "body": "Layered roofs and sheltered edges frame the water and extend the public route through the site.",
+      "images": [
+        "d34s030i0",
+        "d34s020i0"
+      ],
+      "captions": [
+        "Waterfront visualisation",
+        "Landscape section"
+      ],
+      "layout": "stack"
+    },
+    {
+      "type": "project",
+      "group": "sohra-culture",
+      "title": "Performance & exhibition",
+      "body": "The auditorium and galleries bring different scales of public gathering into the same cultural campus.",
+      "images": [
+        "d34s036i0",
+        "d34s023i0"
+      ],
+      "captions": [
+        "Auditorium section",
+        "Exhibition rotunda visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "sohra-culture",
+      "title": "The cultural street",
+      "body": "A continuous frontage gives the market and pedestrian spaces a shared architectural language.",
+      "images": [
+        "d34s039i0",
+        "d34s032i0"
+      ],
+      "captions": [
+        "Cultural street plans and sections",
+        "Gallery interior visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "sohra-culture",
+      "title": "After dark",
+      "body": "Light draws out the roofs, colonnades and water edges.",
+      "images": [
+        "d34s034i0"
+      ],
+      "captions": "Aerial visualisation",
+      "layout": "single"
+    },
+    {
+      "type": "open",
+      "group": "umiam-lake"
+    },
+    {
+      "type": "project",
+      "group": "umiam-lake",
+      "title": "The wider lake masterplan",
+      "body": "Development clusters follow the terrain and retain the lake as the principal organising element.",
+      "images": [
+        "d01s030i0"
+      ],
+      "captions": "Overall masterplan visualisation",
+      "layout": "single"
+    },
+    {
+      "type": "project",
+      "group": "umiam-lake",
+      "title": "Music, living & wellbeing",
+      "body": "Programme studies connect music education with residential and wellness uses, alongside hospitality and adventure activities.",
+      "images": [
+        "d01s012i0",
+        "d01s015i0",
+        "d01s020i0"
+      ],
+      "captions": [
+        "Music city study",
+        "Residential and wellness study",
+        "Hospitality and adventure study"
+      ],
+      "layout": "triple"
+    },
+    {
+      "type": "project",
+      "group": "umiam-lake",
+      "title": "The public waterfront",
+      "body": "The detailed lakefront plan arranges arrival, recreation, food and cultural programmes as a walkable sequence.",
+      "images": [
+        "d00s017i0"
+      ],
+      "captions": "Lakefront masterplan",
+      "layout": "single"
+    },
+    {
+      "type": "project",
+      "group": "umiam-lake",
+      "title": "A family of lakefront buildings",
+      "body": "Distinct roof silhouettes give each destination its own identity while keeping an open relationship with the water.",
+      "images": [
+        "d00s006i0",
+        "d00s007i0"
+      ],
+      "captions": [
+        "Restaurant visualisation",
+        "Sail tower visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "umiam-lake",
+      "title": "The market",
+      "body": "Open halls and a sheltered perimeter create places to browse, pause and gather.",
+      "images": [
+        "d00s012i0",
+        "d00s047i0"
+      ],
+      "captions": [
+        "Market interior visualisation",
+        "Market plan"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "umiam-lake",
+      "title": "Plans, sections & roof forms",
+      "body": "The drawing studies test the relationship between structure, enclosure and the open public edge.",
+      "images": [
+        "d00s037i0",
+        "d00s038i0"
+      ],
+      "captions": [
+        "Pavilion plan and sections",
+        "Café plan and section"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "umiam-lake",
+      "title": "Arrival & construction detail",
+      "body": "The arrival structures carry the architectural language into the boundary and entrance sequence.",
+      "images": [
+        "d00s053i0",
+        "d00s030i0"
+      ],
+      "captions": [
+        "Entrance section",
+        "Wall construction detail"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "palliative-care"
+    },
+    {
+      "type": "project",
+      "group": "palliative-care",
+      "title": "Building around the trees",
+      "body": "The concept develops a curving footprint within the planted site, with gardens between the building wings.",
+      "images": [
+        "d62s026i0",
+        "d62s045i0"
+      ],
+      "captions": [
+        "Concept development study",
+        "Roof and landscape visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "palliative-care",
+      "title": "Care at ground level",
+      "body": "The plan brings rooms, shared spaces and sheltered circulation around a series of open courts.",
+      "images": [
+        "d24s012i0"
+      ],
+      "captions": "Ground-floor plan, May 2026 design",
+      "layout": "single"
+    },
+    {
+      "type": "project",
+      "group": "palliative-care",
+      "title": "The section through care",
+      "body": "Low profiles and shaded circulation maintain a close relationship between interiors and outdoor space.",
+      "images": [
+        "d24s014i0",
+        "d62s043i0"
+      ],
+      "captions": [
+        "Sections and elevations",
+        "Courtyard circulation visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "palliative-care",
+      "title": "The everyday experience",
+      "body": "Daylight, views and accessible garden edges give the shared spaces a domestic scale.",
+      "images": [
+        "d62s046i0",
+        "d62s047i0"
+      ],
+      "captions": [
+        "Ward visualisation",
+        "Covered garden space visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "palliative-care",
+      "title": "Support buildings",
+      "body": "Nurses’ accommodation and administration extend the campus programme beyond the care building.",
+      "images": [
+        "d24s028i0",
+        "d24s036i0"
+      ],
+      "captions": [
+        "Nurses’ hostel elevation study",
+        "Administration elevation study"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "palliative-care",
+      "title": "Campus housing",
+      "body": "The housing proposal groups residential blocks around landscaped shared spaces.",
+      "images": [
+        "d62s087i0"
+      ],
+      "captions": "Housing visualisation",
+      "layout": "single"
+    },
+    {
+      "type": "project",
+      "group": "palliative-care",
+      "title": "Housing typologies",
+      "body": "Unit and cluster studies explore repeatable residential arrangements alongside the campus landscape.",
+      "images": [
+        "d62s080i0",
+        "d62s082i0"
+      ],
+      "captions": [
+        "Type III cluster plan",
+        "Housing section"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "tura-administration"
+    },
+    {
+      "type": "project",
+      "group": "tura-administration",
+      "title": "The civic campus",
+      "body": "The site plan connects administrative buildings, public approaches and associated accommodation across the terrain.",
+      "images": [
+        "d39s013i0"
+      ],
+      "captions": "Campus masterplan",
+      "layout": "single"
+    },
+    {
+      "type": "project",
+      "group": "tura-administration",
+      "title": "A shared roof",
+      "body": "A broad roof and colonnade establish a continuous architectural order across the public frontage.",
+      "images": [
+        "d39s018i0",
+        "d39s025i0"
+      ],
+      "captions": [
+        "Site section",
+        "Colonnade visualisation"
+      ],
+      "layout": "stack"
+    },
+    {
+      "type": "project",
+      "group": "tura-administration",
+      "title": "Public rooms",
+      "body": "Courts and interior gathering spaces punctuate the administrative programme.",
+      "images": [
+        "d39s032i0",
+        "d39s036i0"
+      ],
+      "captions": [
+        "Roof court visualisation",
+        "Library visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "tura-administration",
+      "title": "Planning & accommodation",
+      "body": "The building plans and residential studies show the relationship between the civic programme and its supporting campus.",
+      "images": [
+        "d39s020i0",
+        "d39s044i0"
+      ],
+      "captions": [
+        "Administrative floor plan",
+        "Accommodation plan"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "shillong-public-realm"
+    },
+    {
+      "type": "project",
+      "group": "shillong-public-realm",
+      "title": "Polo riverfront masterplan",
+      "body": "Sports grounds and new public spaces share a continuous river edge.",
+      "images": [
+        "d13s002i0"
+      ],
+      "captions": "Polo riverfront masterplan",
+      "layout": "single"
+    },
+    {
+      "type": "project",
+      "group": "shillong-public-realm",
+      "title": "Riverfront connections",
+      "body": "The promenade combines planted edges, gathering spaces and routes between destinations.",
+      "images": [
+        "d11s040i0",
+        "d11s031i0"
+      ],
+      "captions": [
+        "Riverfront visualisation",
+        "Riverfront sections"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "shillong-public-realm",
+      "title": "Ward’s Lake & the promenade",
+      "body": "The wider public-space network connects the lake to cafés, gardens and the riverfront.",
+      "images": [
+        "d16s004i0",
+        "d16s027i0"
+      ],
+      "captions": [
+        "Public-space network plan",
+        "Lakeside promenade visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "shillong-public-realm",
+      "title": "Gardens, bridges & small buildings",
+      "body": "The proposals bring new facilities into the existing landscape through a series of focused interventions.",
+      "images": [
+        "d17s018i0",
+        "d17s033i0"
+      ],
+      "captions": [
+        "Greenhouse visualisation",
+        "Bridge visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "shillong-public-realm",
+      "title": "The lake experience centre",
+      "body": "A vertical marker rises above a low building integrated with the lakeside terrain.",
+      "images": [
+        "d18s024i0",
+        "d18s029i0"
+      ],
+      "captions": [
+        "Section and elevation studies",
+        "Experience centre visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "shillong-public-realm",
+      "title": "Exhibition spaces",
+      "body": "The experience centre develops a sequence of themed interiors and open public spaces.",
+      "images": [
+        "d17s044i0",
+        "d17s049i0"
+      ],
+      "captions": [
+        "Experience centre plan",
+        "Exhibition interior visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "shillong-public-realm",
+      "title": "Sports hostel",
+      "body": "Accommodation and shared functions occupy a building with a clear public frontage and internal gathering spaces.",
+      "images": [
+        "d19s019i0",
+        "d19s007i0"
+      ],
+      "captions": [
+        "Sports hostel visualisation",
+        "Building section"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "shillong-public-realm",
+      "title": "Parking & the sports tower",
+      "body": "The Polo parking and sports studies combine infrastructure with a compact vertical programme.",
+      "images": [
+        "d12s012i0",
+        "d13s019i0"
+      ],
+      "captions": [
+        "Polo parking site plan",
+        "Polo sports tower visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "shillong-public-realm",
+      "title": "Hawkers’ market & civic amenities",
+      "body": "Trading space and everyday facilities complete the public-realm programme.",
+      "images": [
+        "d13s033i0",
+        "d13s034i0"
+      ],
+      "captions": [
+        "Hawkers’ market visualisation",
+        "Market section"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "new-shillong"
+    },
+    {
+      "type": "project",
+      "group": "new-shillong",
+      "title": "The urban framework",
+      "body": "Land use and movement studies establish the structure for new development.",
+      "images": [
+        "d27s023i0",
+        "d27s027i0"
+      ],
+      "captions": [
+        "Land-use study",
+        "Road network study"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "new-shillong",
+      "title": "The boulevard",
+      "body": "A continuous landscape connects stepped public spaces, planting and movement along the boulevard.",
+      "images": [
+        "d28s003i0",
+        "d28s005i0"
+      ],
+      "captions": [
+        "Boulevard masterplan",
+        "Stepped landscape study"
+      ],
+      "layout": "stack"
+    },
+    {
+      "type": "project",
+      "group": "new-shillong",
+      "title": "Affordable housing",
+      "body": "The proposal groups compact homes within a planted residential setting.",
+      "images": [
+        "d25s003i0",
+        "d25s010i0"
+      ],
+      "captions": [
+        "Housing visualisation",
+        "Site plan"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "new-shillong",
+      "title": "Residential typologies",
+      "body": "Simplex and duplex studies develop the relationship between individual homes, circulation and shared space.",
+      "images": [
+        "d25s012i0",
+        "d25s015i0"
+      ],
+      "captions": [
+        "Residential floor plans",
+        "Simplex typology"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "new-shillong",
+      "title": "Premium housing",
+      "body": "A separate housing study organises larger residences around courts and the hillside landscape.",
+      "images": [
+        "d26s020i0",
+        "d26s011i0"
+      ],
+      "captions": [
+        "Premium housing visualisation",
+        "Four-bedroom unit study"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "new-shillong",
+      "title": "Prime Hub",
+      "body": "The incubation hub combines a low horizontal building with a vertical marker, set into the sloping site.",
+      "images": [
+        "d29s037i0",
+        "d29s030i0"
+      ],
+      "captions": [
+        "Prime Hub visualisation",
+        "Site section"
+      ],
+      "layout": "stack"
+    },
+    {
+      "type": "project",
+      "group": "new-shillong",
+      "title": "Prime Hub planning",
+      "body": "Workspaces and shared facilities surround internal open space.",
+      "images": [
+        "d29s032i0",
+        "d29s033i0"
+      ],
+      "captions": [
+        "Ground-level plan",
+        "Level-one plan"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "new-shillong",
+      "title": "Prime Hub extension",
+      "body": "The extension study adds a pair of taller volumes connected by a shared lower building.",
+      "images": [
+        "d32s025i0",
+        "d32s019i0"
+      ],
+      "captions": [
+        "Extension visualisation",
+        "Building sections"
+      ],
+      "layout": "stack"
+    },
+    {
+      "type": "project",
+      "group": "new-shillong",
+      "title": "The bus terminal",
+      "body": "A broad shelter and a vertical landmark give the transport interchange a civic presence.",
+      "images": [
+        "d30s033i0"
+      ],
+      "captions": "Bus terminal visualisation",
+      "layout": "single"
+    },
+    {
+      "type": "project",
+      "group": "new-shillong",
+      "title": "Terminal organisation",
+      "body": "Stacked programmes and the site section separate movement and support functions within the sloping terrain.",
+      "images": [
+        "d30s023i0",
+        "d30s030i0"
+      ],
+      "captions": [
+        "Terminal floor plans",
+        "Building section"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "new-shillong",
+      "title": "The sports tower",
+      "body": "A compact vertical arrangement brings recreation into a small footprint.",
+      "images": [
+        "d33s005i0",
+        "d33s009i0"
+      ],
+      "captions": [
+        "Sports tower section",
+        "Night visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "mandalgre"
+    },
+    {
+      "type": "project",
+      "group": "mandalgre",
+      "title": "A bridge across the terrain",
+      "body": "The project uses the section to connect different levels while retaining the landscape as a continuous surface.",
+      "images": [
+        "d21s016i0",
+        "d21s018i0"
+      ],
+      "captions": [
+        "Section study",
+        "Masterplan"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "mandalgre",
+      "title": "Programme & accommodation",
+      "body": "Public cultural functions occupy the principal building, with residential accommodation as a related component.",
+      "images": [
+        "d21s019i0",
+        "d21s023i0"
+      ],
+      "captions": [
+        "Ground-floor plan",
+        "Accommodation plan"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "nongnah"
+    },
+    {
+      "type": "project",
+      "group": "nongnah",
+      "title": "Programme across levels",
+      "body": "The lower-ground and terrace studies document the distribution of the museum’s public and supporting uses.",
+      "images": [
+        "d23s009i0",
+        "d23s012i0"
+      ],
+      "captions": [
+        "Lower-ground floor plan",
+        "Terrace plan"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "sohra-cement"
+    },
+    {
+      "type": "project",
+      "group": "sohra-cement",
+      "title": "An industrial campus reopened",
+      "body": "The masterplan reuses the factory’s spatial structure and connects new activities through a covered pedestrian spine.",
+      "images": [
+        "d35s039i0",
+        "d35s049i0"
+      ],
+      "captions": [
+        "Redevelopment masterplan",
+        "Campus visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "sohra-cement",
+      "title": "Rain, performance & the silos",
+      "body": "New programmes occupy the spaces between and within the industrial structures.",
+      "images": [
+        "d35s045i0",
+        "d35s047i0"
+      ],
+      "captions": [
+        "Amphitheatre visualisation",
+        "Silo restaurant visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "pelga-falls"
+    },
+    {
+      "type": "project",
+      "group": "pelga-falls",
+      "title": "Bridge & river section",
+      "body": "The crossing becomes an occupied architectural element within the landscape.",
+      "images": [
+        "d36s004i0",
+        "d36s005i0"
+      ],
+      "captions": [
+        "Bridge and restaurant plan",
+        "River crossing section"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "pelga-falls",
+      "title": "Staying in the landscape",
+      "body": "Small huts and visitor facilities extend the programme beyond the crossing.",
+      "images": [
+        "d36s014i0",
+        "d36s007i0"
+      ],
+      "captions": [
+        "Accommodation visualisation",
+        "Log-hut typology study"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "tura-city"
+    },
+    {
+      "type": "project",
+      "group": "tura-city",
+      "title": "What Tura needs",
+      "body": "The city study connects infrastructure and land-use analysis with a programme of public-space and civic interventions.",
+      "images": [
+        "d47s033i0",
+        "d47s037i0"
+      ],
+      "captions": [
+        "Existing land-use study",
+        "Urban traffic study"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "tura-city",
+      "title": "City park",
+      "body": "The park combines an open public landscape with a roofed pavilion and supporting facilities.",
+      "images": [
+        "d37s020i0",
+        "d37s026i0"
+      ],
+      "captions": [
+        "Park masterplan",
+        "Pavilion interior visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "tura-city",
+      "title": "Youth centre",
+      "body": "A stepped cultural and youth programme occupies the terrain around a shared public approach.",
+      "images": [
+        "d40s024i0",
+        "d40s022i0"
+      ],
+      "captions": [
+        "Youth centre visualisation",
+        "Youth centre section"
+      ],
+      "layout": "stack"
+    },
+    {
+      "type": "project",
+      "group": "tura-city",
+      "title": "Convention centre & hotel",
+      "body": "Complementary programmes frame the public spaces of the complex.",
+      "images": [
+        "d40s028i0",
+        "d40s029i0"
+      ],
+      "captions": [
+        "Convention centre visualisation",
+        "Hotel visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "tura-city",
+      "title": "SMELC cinema & active ageing",
+      "body": "The promenade studies include public entertainment and facilities for older residents.",
+      "images": [
+        "d38s004i0",
+        "d38s010i0"
+      ],
+      "captions": [
+        "SMELC cinema visualisation",
+        "Active Ageing Centre visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "tura-city",
+      "title": "Najing Bazar",
+      "body": "A market and gathering-place proposal combines commercial frontages with an open public court.",
+      "images": [
+        "d38s017i0",
+        "d38s020i0"
+      ],
+      "captions": [
+        "Najing Bazar visualisation",
+        "Building section"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "tura-city",
+      "title": "Markets, parking & Chandmary",
+      "body": "Market and parking proposals sit alongside the Chandmary development study.",
+      "images": [
+        "d38s027i0",
+        "d38s031i0"
+      ],
+      "captions": [
+        "Meat market and parking visualisation",
+        "Chandmary visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "tura-city",
+      "title": "Junctions & the street",
+      "body": "Public-space improvements reshape the relationship between traffic, pedestrian movement and planted edges.",
+      "images": [
+        "d41s020i0",
+        "d38s040i0"
+      ],
+      "captions": [
+        "Hawakhana junction visualisation",
+        "Typical road plan and elevation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "tura-city",
+      "title": "Tura Market redevelopment",
+      "body": "A roof canopy and new public frontage redefine the existing market building.",
+      "images": [
+        "d46s006i0",
+        "d46s017i0"
+      ],
+      "captions": [
+        "Market redevelopment visualisation",
+        "Market section study"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "tura-city",
+      "title": "Colour & city identity",
+      "body": "Façade studies explore a coordinated material and colour language for the streetscape.",
+      "images": [
+        "d45s014i0",
+        "d45s015i0"
+      ],
+      "captions": [
+        "Existing street frontage",
+        "Proposed façade treatment"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "tura-city",
+      "title": "Urban identity & furniture",
+      "body": "Identity, signage and furniture studies carry local references into the everyday public realm.",
+      "images": [
+        "d47s075i0",
+        "d47s091i0",
+        "d47s097i0"
+      ],
+      "captions": [
+        "Tura identity option",
+        "Bench study",
+        "Illuminated bollard study"
+      ],
+      "layout": "triple"
+    },
+    {
+      "type": "open",
+      "group": "bodoland-study"
+    },
+    {
+      "type": "project",
+      "group": "bodoland-study",
+      "title": "Districts & development priorities",
+      "body": "Kokrajhar: administration and culture\nChirang: ecology and agriculture\nBaksa: adventure and resilience\nTamulpur: new civic development\nUdalguri: border logistics",
+      "images": [
+        "d48s054i0"
+      ],
+      "captions": "Regional study map",
+      "layout": "essay"
+    },
+    {
+      "type": "open",
+      "group": "farmers-market"
+    },
+    {
+      "type": "project",
+      "group": "farmers-market",
+      "title": "Three circles of activity",
+      "body": "The form-development study brings exchange, gathering and celebration into an interconnected plan.",
+      "images": [
+        "d49s036i0",
+        "d49s037i0"
+      ],
+      "captions": [
+        "Concept development",
+        "Concept model visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "bodoland-stadium"
+    },
+    {
+      "type": "project",
+      "group": "bodoland-stadium",
+      "title": "Two stadium studies",
+      "body": "The design alternatives explore a rectilinear campus and an oval enclosure with a woven architectural expression.",
+      "images": [
+        "d50s034i0",
+        "d50s043i0"
+      ],
+      "captions": [
+        "Rectilinear scheme visualisation",
+        "Oval scheme plan"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "bogamati"
+    },
+    {
+      "type": "project",
+      "group": "bogamati",
+      "title": "A sequence along the river",
+      "body": "The masterplan places the river and its edge at the centre of the visitor experience.",
+      "images": [
+        "d51s030i0",
+        "d51s033i0"
+      ],
+      "captions": [
+        "Riverfront masterplan",
+        "Hospitality and wellness zone"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "dc-park"
+    },
+    {
+      "type": "project",
+      "group": "dc-park",
+      "title": "Chessboard to landscape",
+      "body": "The concept studies use abstraction and movement to turn the grid into a landscape structure.",
+      "images": [
+        "d54s038i0",
+        "d54s024i0"
+      ],
+      "captions": [
+        "Concept development",
+        "Park plan visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "dc-park",
+      "title": "Pavilions & the public edge",
+      "body": "Small buildings and landscape elements share a modular architectural language.",
+      "images": [
+        "d54s039i0",
+        "d54s040i0"
+      ],
+      "captions": [
+        "Chess pavilion visualisation",
+        "Cafeteria visualisation"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "dc-park",
+      "title": "Details at walking pace",
+      "body": "Paving, seating and wayfinding extend the chess theme into the scale of everyday use.",
+      "images": [
+        "d54s043i0",
+        "d54s045i0"
+      ],
+      "captions": [
+        "Seating and paving study",
+        "Wayfinding study"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "open",
+      "group": "shillong-healthcare"
+    },
+    {
+      "type": "project",
+      "group": "shillong-healthcare",
+      "title": "Civil Hospital campus",
+      "body": "The redevelopment study reorganises clinical and supporting functions within the existing campus.",
+      "images": [
+        "d55s010i0",
+        "d55s009i0"
+      ],
+      "captions": [
+        "Campus plan",
+        "Proposed intervention study"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "shillong-healthcare",
+      "title": "Oncology block",
+      "body": "The building studies coordinate clinical floors with circulation, services and the hospital section.",
+      "images": [
+        "d55s022i0",
+        "d55s019i0"
+      ],
+      "captions": [
+        "Clinical floor plans",
+        "Building section study"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "shillong-healthcare",
+      "title": "Operating theatre block",
+      "body": "The OT and ICU studies document the stacked clinical programme and its structural organisation.",
+      "images": [
+        "d56s007i0",
+        "d56s010i0"
+      ],
+      "captions": [
+        "Typical operating theatre floors",
+        "OT block section"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "shillong-healthcare",
+      "title": "Red Cross accommodation",
+      "body": "A separate accommodation proposal combines residential floors with a raised building form and shared access.",
+      "images": [
+        "d57s009i0",
+        "d57s006i0"
+      ],
+      "captions": [
+        "Red Cross accommodation visualisation",
+        "First- and second-floor plans"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "project",
+      "group": "shillong-healthcare",
+      "title": "Ganesh Das Hospital",
+      "body": "The masterplan study considers retained buildings, new development and internal movement across the hospital site.",
+      "images": [
+        "d58s006i0",
+        "d58s019i0"
+      ],
+      "captions": [
+        "Hospital masterplan study",
+        "Campus section study"
+      ],
+      "layout": "pair"
+    },
+    {
+      "type": "register"
+    },
+    {
+      "type": "closing"
+    }
+  ]
+}
