@@ -1,7 +1,7 @@
-@font-face{font-family:Manrope;src:url('/fonts/manrope-400.ttf') format('truetype');font-weight:400;font-display:swap}
-@font-face{font-family:Manrope;src:url('/fonts/manrope-600.ttf') format('truetype');font-weight:600 800;font-display:swap}
-@font-face{font-family:Instrument;src:url('/fonts/instrument-regular.ttf') format('truetype');font-weight:400;font-display:swap}
-@font-face{font-family:Instrument;src:url('/fonts/instrument-italic.ttf') format('truetype');font-weight:400;font-style:italic;font-display:swap}
+@font-face{font-family:Manrope;src:url('fonts/manrope-400.ttf') format('truetype');font-weight:400;font-display:swap}
+@font-face{font-family:Manrope;src:url('fonts/manrope-600.ttf') format('truetype');font-weight:600 800;font-display:swap}
+@font-face{font-family:Instrument;src:url('fonts/instrument-regular.ttf') format('truetype');font-weight:400;font-display:swap}
+@font-face{font-family:Instrument;src:url('fonts/instrument-italic.ttf') format('truetype');font-weight:400;font-style:italic;font-display:swap}
 :root{
 --ink:#0a0a0a;--ink-2:#141412;--paper:#f5f4f0;--stone:#e9e7e1;--concrete:#d8d5cd;
 --muted:#6f6e69;--line:#d3d1c9;--line-dark:#2b2b28;--white:#fff;
