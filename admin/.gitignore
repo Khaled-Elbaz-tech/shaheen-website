@@ -1,0 +1,6 @@
+# CMS runtime data — never commit
+db/cms.sqlite
+db/cms.sqlite-wal
+db/cms.sqlite-shm
+db/*.tmp.*
+*.tmp.*
