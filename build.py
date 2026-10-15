@@ -24,6 +24,9 @@ ORDERED = sorted(
 
 e = html.escape
 
+# Asset version for cache-busting. Bump this when CSS/JS changes.
+ASSET_V = "5"
+
 # ---------------------------------------------------------------- site.json
 # Shared contract with the PHP CMS. Every value below is a default; anything
 # present in site.json overrides it. The site builds cleanly without site.json.
@@ -198,8 +201,8 @@ def shell(title, desc, body, p='', page='', og_image=None):
 <meta name="theme-color" content="#171A17">
 <link rel="icon" href="{p}favicon.svg" type="image/svg+xml">
 <script>document.documentElement.classList.add('js');</script>
-<link rel="stylesheet" href="{p}style.css">
-<script src="{p}site.js" defer></script>
+<link rel="stylesheet" href="{p}style.css?v={ASSET_V}">
+<script src="{p}site.js?v={ASSET_V}" defer></script>
 </head>
 <body class="{page}">
 <a class="skip" href="#main">Skip to content</a>
@@ -728,7 +731,7 @@ body.menu-open .site-header{background:transparent;color:var(--ink);box-shadow:n
 .sel-years{font-style:normal;font-size:.52em;color:var(--mut-l);letter-spacing:.08em}
 .sel-grid{display:grid;grid-template-columns:repeat(4,1fr);
   gap:clamp(1rem,2vw,1.75rem)}
-.sel-card{margin:0}
+.sel-card{margin:0;min-width:0}
 .sel-card a{display:block;text-decoration:none;color:inherit}
 .sel-media{display:block;overflow:hidden;aspect-ratio:3/4;background:var(--ink-2)}
 .sel-media img{width:100%;height:100%;object-fit:cover;
@@ -761,7 +764,7 @@ body.menu-open .site-header{background:transparent;color:var(--ink);box-shadow:n
 .land-note{color:var(--mut);max-width:42ch;justify-self:end;margin:0}
 .land-grid{display:grid;grid-template-columns:repeat(4,1fr);
   gap:clamp(1rem,2vw,1.6rem)}
-.land-card{margin:0}
+.land-card{margin:0;min-width:0}
 .land-card button{display:block;width:100%;padding:0;border:0;background:none;
   cursor:zoom-in;color:inherit}
 .land-media{display:block;overflow:hidden;aspect-ratio:4/3;background:var(--ivory-2)}
