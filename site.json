@@ -1,190 +1,187 @@
 {
- "approach": {
-  "headline": "Thinking across scales. Designing with place.",
-  "intro": "Moving between the scale of a room, the organisation of a campus and the structure of a city — from observation to architecture.",
-  "stages": [
-   {
-    "n": "01",
-    "title": "Listen",
-    "text": "We start with people, place and context."
-   },
-   {
-    "n": "02",
-    "title": "Explore",
-    "text": "We research, analyze and ask better questions."
-   },
-   {
-    "n": "03",
-    "title": "Shape",
-    "text": "We turn insight into concept and design."
-   },
-   {
-    "n": "04",
-    "title": "Deliver",
-    "text": "We bring ideas to life with care and precision."
-   }
-  ]
- },
- "contact": {
-  "copy": "We'd love to hear about your project, idea, or opportunity to collaborate.",
-  "email": "hello@olamagady.com",
-  "headline": "Let's start a conversation.",
-  "socials": {
-   "Instagram": "",
-   "LinkedIn": "",
-   "Behance": ""
+  "approach": {
+    "headline": "Thinking across scales. Designing with place.",
+    "intro": "Moving between the scale of a room, the organisation of a campus and the structure of a city — from observation to architecture.",
+    "stages": [
+      {
+        "n": "01",
+        "title": "Listen",
+        "text": "We start with people, place and context."
+      },
+      {
+        "n": "02",
+        "title": "Explore",
+        "text": "We research, analyze and ask better questions."
+      },
+      {
+        "n": "03",
+        "title": "Shape",
+        "text": "We turn insight into concept and design."
+      },
+      {
+        "n": "04",
+        "title": "Deliver",
+        "text": "We bring ideas to life with care and precision."
+      }
+    ]
   },
-  "image": "d62s046i0"
- },
- "hero": {
-  "alt": "Sohra Culture & Experience Centre — design visualisation",
-  "descriptor": "ARCHITECTURE · LANDSCAPE · PLACE",
-  "headline": "Spaces that move us.",
-  "image": "d34s027i0",
-  "project_id": "sohra-culture"
- },
- "intro": {
-  "copy": "We believe that great places are not just built, they are felt. Our work brings together architecture, landscape and culture to create meaningful experiences — from the intimate to the iconic, from a single space to a larger territory.",
-  "eyebrow": "The practice — a personal perspective",
-  "statement": "Thinking across scales. Designing with place."
- },
- "journal": [],
- "landscape_gallery": {
-  "headline": "In dialogue with the landscape.",
-  "images": [
-   {
-    "alt": "Masterplan — Sohra Culture & Experience Centre",
-    "caption": "Masterplan",
-    "key": "d34s019i0",
-    "project": "Sohra Culture & Experience Centre",
+  "contact": {
+    "copy": "We'd love to hear about your project, idea, or opportunity to collaborate.",
+    "email": "hello@olamagady.com",
+    "headline": "Let's start a conversation.",
+    "socials": {
+      "Instagram": "",
+      "LinkedIn": "",
+      "Behance": ""
+    },
+    "image": "d62s046i0"
+  },
+  "hero": {
+    "alt": "Sohra Culture & Experience Centre — design visualisation",
+    "descriptor": "ARCHITECTURE · LANDSCAPE · PLACE",
+    "headline": "We Create Timeless Spaces. Designed Around You.",
+    "image": "d34s027i0",
     "project_id": "sohra-culture"
-   },
-   {
-    "alt": "Landscape section — Sohra Culture & Experience Centre",
-    "caption": "Landscape section",
-    "key": "d34s020i0",
-    "project": "Sohra Culture & Experience Centre",
-    "project_id": "sohra-culture"
-   },
-   {
-    "alt": "Overall masterplan visualisation — Umiam Lake",
-    "caption": "Overall masterplan visualisation",
-    "key": "d01s030i0",
-    "project": "Umiam Lake",
-    "project_id": "umiam-lake"
-   },
-   {
-    "alt": "Pavilion plan and sections — Umiam Lake",
-    "caption": "Pavilion plan and sections",
-    "key": "d00s037i0",
-    "project": "Umiam Lake",
-    "project_id": "umiam-lake"
-   },
-   {
-    "alt": "Ground-floor plan — Palliative Care & Housing",
-    "caption": "Ground-floor plan, May 2026 design",
-    "key": "d24s012i0",
-    "project": "Palliative Care & Housing",
-    "project_id": "palliative-care"
-   },
-   {
-    "alt": "Campus masterplan — Tura Integrated Administrative Complex",
-    "caption": "Campus masterplan",
-    "key": "d39s013i0",
-    "project": "Tura Integrated Administrative Complex",
-    "project_id": "tura-administration"
-   },
-   {
-    "alt": "Polo riverfront masterplan — Shillong Public Realm",
-    "caption": "Polo riverfront masterplan",
-    "key": "d13s002i0",
-    "project": "Shillong Public Realm",
-    "project_id": "shillong-public-realm"
-   },
-   {
-    "alt": "Boulevard masterplan — New Shillong",
-    "caption": "Boulevard masterplan",
-    "key": "d28s003i0",
-    "project": "New Shillong",
-    "project_id": "new-shillong"
-   },
-   {
-    "alt": "Masterplan — Mandalgre Cultural Centre",
-    "caption": "Masterplan",
-    "key": "d21s018i0",
-    "project": "Mandalgre Cultural Centre",
-    "project_id": "mandalgre"
-   },
-   {
-    "alt": "Concept model visualisation — Bodoland Farmers' Market",
-    "caption": "Concept model visualisation",
-    "key": "d49s037i0",
-    "project": "Bodoland Farmers’ Market",
-    "project_id": "farmers-market"
-   },
-   {
-    "alt": "Riverfront masterplan — Bogamati Riverfront",
-    "caption": "Riverfront masterplan",
-    "key": "d51s030i0",
-    "project": "Bogamati Riverfront",
-    "project_id": "bogamati"
-   },
-   {
-    "alt": "Park masterplan — Tura Promenade & City Projects",
-    "caption": "Park masterplan",
-    "key": "d37s020i0",
-    "project": "Tura Promenade & City Projects",
-    "project_id": "tura-city"
-   }
+  },
+  "intro": {
+    "copy": "We believe that great places are not just built, they are felt. Our work brings together architecture, landscape and culture to create meaningful experiences — from the intimate to the iconic, from a single space to a larger territory.",
+    "eyebrow": "The practice — a personal perspective",
+    "statement": "Thinking across scales. Designing with place."
+  },
+  "journal": [],
+  "landscape_gallery": {
+    "headline": "In dialogue with the landscape.",
+    "images": [
+      {
+        "alt": "Masterplan — Sohra Culture & Experience Centre",
+        "caption": "Masterplan",
+        "key": "d34s019i0",
+        "project": "Sohra Culture & Experience Centre",
+        "project_id": "sohra-culture"
+      },
+      {
+        "alt": "Landscape section — Sohra Culture & Experience Centre",
+        "caption": "Landscape section",
+        "key": "d34s020i0",
+        "project": "Sohra Culture & Experience Centre",
+        "project_id": "sohra-culture"
+      },
+      {
+        "alt": "Overall masterplan visualisation — Umiam Lake",
+        "caption": "Overall masterplan visualisation",
+        "key": "d01s030i0",
+        "project": "Umiam Lake",
+        "project_id": "umiam-lake"
+      },
+      {
+        "alt": "Pavilion plan and sections — Umiam Lake",
+        "caption": "Pavilion plan and sections",
+        "key": "d00s037i0",
+        "project": "Umiam Lake",
+        "project_id": "umiam-lake"
+      },
+      {
+        "alt": "Ground-floor plan — Palliative Care & Housing",
+        "caption": "Ground-floor plan, May 2026 design",
+        "key": "d24s012i0",
+        "project": "Palliative Care & Housing",
+        "project_id": "palliative-care"
+      },
+      {
+        "alt": "Campus masterplan — Tura Integrated Administrative Complex",
+        "caption": "Campus masterplan",
+        "key": "d39s013i0",
+        "project": "Tura Integrated Administrative Complex",
+        "project_id": "tura-administration"
+      },
+      {
+        "alt": "Polo riverfront masterplan — Shillong Public Realm",
+        "caption": "Polo riverfront masterplan",
+        "key": "d13s002i0",
+        "project": "Shillong Public Realm",
+        "project_id": "shillong-public-realm"
+      },
+      {
+        "alt": "Boulevard masterplan — New Shillong",
+        "caption": "Boulevard masterplan",
+        "key": "d28s003i0",
+        "project": "New Shillong",
+        "project_id": "new-shillong"
+      },
+      {
+        "alt": "Masterplan — Mandalgre Cultural Centre",
+        "caption": "Masterplan",
+        "key": "d21s018i0",
+        "project": "Mandalgre Cultural Centre",
+        "project_id": "mandalgre"
+      },
+      {
+        "alt": "Concept model visualisation — Bodoland Farmers' Market",
+        "caption": "Concept model visualisation",
+        "key": "d49s037i0",
+        "project": "Bodoland Farmers’ Market",
+        "project_id": "farmers-market"
+      },
+      {
+        "alt": "Riverfront masterplan — Bogamati Riverfront",
+        "caption": "Riverfront masterplan",
+        "key": "d51s030i0",
+        "project": "Bogamati Riverfront",
+        "project_id": "bogamati"
+      },
+      {
+        "alt": "Park masterplan — Tura Promenade & City Projects",
+        "caption": "Park masterplan",
+        "key": "d37s020i0",
+        "project": "Tura Promenade & City Projects",
+        "project_id": "tura-city"
+      }
+    ],
+    "intro": "Masterplans, sections, models and studies — the drawings through which buildings find their place in the terrain."
+  },
+  "nav": [
+    {
+      "href": "#work",
+      "label": "Work"
+    },
+    {
+      "href": "#services",
+      "label": "Services"
+    },
+    {
+      "href": "#approach",
+      "label": "Approach"
+    },
+    {
+      "href": "#journal",
+      "label": "Journal"
+    },
+    {
+      "href": "#contact",
+      "label": "Contact"
+    }
   ],
-  "intro": "Masterplans, sections, models and studies — the drawings through which buildings find their place in the terrain."
- },
- "nav": [
-  {
-   "href": "#work",
-   "label": "Work"
+  "sections_order": [
+    "hero",
+    "stats",
+    "work",
+    "services",
+    "process",
+    "insights",
+    "contact"
+  ],
+  "seo": {
+    "description": "Ola Magdy is an architect and Principal Associate Designer at Archohm. A portfolio of architecture, landscape and urban design — from cultural buildings and healthcare campuses to public spaces and city-scale proposals.",
+    "og_image": "d34s027i0",
+    "title": "Ola Magdy — Architecture, Landscape & Urbanism"
   },
-  {
-   "href": "#studio",
-   "label": "Studio"
-  },
-  {
-   "href": "#approach",
-   "label": "Approach"
-  },
-  {
-   "href": "#journal",
-   "label": "Journal"
-  },
-  {
-   "href": "#contact",
-   "label": "Contact"
+  "studio": {
+    "bio": "Ola Magdy is an architect, designer and educator whose career spans professional practice in Egypt and India. Since 2016, she has progressed from a junior architectural role to senior practice, university teaching and her current position as Principal Associate Designer at Archohm.\n\nHer early career in Egypt included Bonyan Designs, Ebtekarak and Eiffel. In India, her experience expanded through a Visiting Professor appointment at the World University of Design, followed by Senior Architect roles at Srishti Architects and Creative Group. She joined Archohm in 2024.\n\nAt Archohm, her portfolio extends from cultural and civic buildings to healthcare, housing, hospitality and public landscapes. The work presented here includes proposals across Meghalaya, Bihar and Bodoland, where individual buildings sit within wider questions of terrain, movement, community and urban growth.\n\nThis range is central to her practice: moving between the scale of a room, the organisation of a campus and the structure of a city.",
+    "headline": "A practice shaped by curiosity.",
+    "image": "d62s026i0",
+    "image_alt": "Concept development study — Palliative Care & Housing",
+    "image_caption": "Concept development study",
+    "intro": "OLA MAGADY is an architecture and landscape studio based in Saudi Arabia, working on projects that respond to place, people and culture. We combine research, design and collaboration to create enduring environments.",
+    "philosophy": "Physical models, drawings and visual studies help Ola explore how an idea becomes a place. Site visits and conversations with project stakeholders bring the realities of landscape, use and context into that process. Her interest in architecture extends to experiencing buildings firsthand: observing how daylight enters a room, how materials meet and how people move through a space."
   }
- ],
- "sections_order": [
-  "hero",
-  "intro",
-  "work",
-  "index_table",
-  "landscape",
-  "studio",
-  "approach",
-  "publications",
-  "journal",
-  "contact"
- ],
- "seo": {
-  "description": "Ola Magdy is an architect and Principal Associate Designer at Archohm. A portfolio of architecture, landscape and urban design — from cultural buildings and healthcare campuses to public spaces and city-scale proposals.",
-  "og_image": "d34s027i0",
-  "title": "Ola Magdy — Architecture, Landscape & Urbanism"
- },
- "studio": {
-  "bio": "Ola Magdy is an architect, designer and educator whose career spans professional practice in Egypt and India. Since 2016, she has progressed from a junior architectural role to senior practice, university teaching and her current position as Principal Associate Designer at Archohm.\n\nHer early career in Egypt included Bonyan Designs, Ebtekarak and Eiffel. In India, her experience expanded through a Visiting Professor appointment at the World University of Design, followed by Senior Architect roles at Srishti Architects and Creative Group. She joined Archohm in 2024.\n\nAt Archohm, her portfolio extends from cultural and civic buildings to healthcare, housing, hospitality and public landscapes. The work presented here includes proposals across Meghalaya, Bihar and Bodoland, where individual buildings sit within wider questions of terrain, movement, community and urban growth.\n\nThis range is central to her practice: moving between the scale of a room, the organisation of a campus and the structure of a city.",
-  "headline": "A practice shaped by curiosity.",
-  "image": "d62s026i0",
-  "image_alt": "Concept development study — Palliative Care & Housing",
-  "image_caption": "Concept development study",
-  "intro": "OLA MAGADY is an architecture and landscape studio based in Saudi Arabia, working on projects that respond to place, people and culture. We combine research, design and collaboration to create enduring environments.",
-  "philosophy": "Physical models, drawings and visual studies help Ola explore how an idea becomes a place. Site visits and conversations with project stakeholders bring the realities of landscape, use and context into that process. Her interest in architecture extends to experiencing buildings firsthand: observing how daylight enters a room, how materials meet and how people move through a space."
- }
 }
