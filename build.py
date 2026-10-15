@@ -25,7 +25,7 @@ ORDERED = sorted(
 e = html.escape
 
 # Asset version for cache-busting. Bump this when CSS/JS changes.
-ASSET_V = "6"
+ASSET_V = "7"
 
 # ---------------------------------------------------------------- site.json
 # Shared contract with the PHP CMS. Every value below is a default; anything
@@ -600,12 +600,167 @@ a{color:inherit}
 .foot-base a{color:var(--mut-soft);text-decoration:none}
 .foot-base a:hover{color:var(--white)}
 
-/* ---------- project pages / index (kept) ---------- */
-.proj-shell{background:var(--black);color:var(--white)}
-.crumb{font-size:.78rem;letter-spacing:.16em;text-transform:uppercase;color:var(--mut-soft);
-  margin-bottom:1.4rem}
-.crumb a{color:var(--mut);text-decoration:none}
-.crumb a:hover{color:var(--gold)}
+/* ---------- project pages — ARCOVA dark luxury ---------- */
+.proj{background:var(--black);color:var(--white)}
+
+/* breadcrumb bar */
+.p-top{
+  display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;
+  padding-top:calc(76px + clamp(1.5rem,3vw,2.5rem));padding-bottom:1.2rem;
+}
+.p-top a{
+  font-size:.78rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--mut);text-decoration:none;transition:color .3s var(--ease);
+}
+.p-top a:hover{color:var(--gold)}
+.p-top .p-num{
+  font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;color:var(--mut-soft);
+}
+
+/* hero — cinematic full-bleed image with title overlay */
+.p-hero{position:relative;min-height:72svh;display:flex;align-items:flex-end;overflow:hidden}
+.p-hero .p-hero-media{position:absolute;inset:0}
+.p-hero .p-hero-media img{width:100%;height:100%;object-fit:cover}
+.p-hero .p-hero-scrim{
+  position:absolute;inset:0;pointer-events:none;
+  background:linear-gradient(180deg,rgba(10,10,10,.35) 0%,rgba(10,10,10,.05) 40%,
+    rgba(10,10,10,.55) 70%,rgba(10,10,10,.94) 100%);
+}
+.p-hero-copy{
+  position:relative;z-index:2;width:100%;max-width:var(--wrap);
+  margin-inline:auto;padding-inline:var(--pad);
+  padding-bottom:clamp(3rem,6vw,5rem);padding-top:6rem;
+}
+.p-hero-over{
+  font-size:.72rem;font-weight:700;letter-spacing:.32em;text-transform:uppercase;
+  color:var(--gold);margin-bottom:1.2rem;
+}
+.p-hero-title{
+  font-family:var(--serif);font-weight:400;
+  font-size:clamp(2.4rem,5.6vw,4.8rem);line-height:1.06;letter-spacing:-.01em;
+  color:var(--white);max-width:16ch;
+}
+.p-hero-title em{font-style:italic;color:var(--gold-lt)}
+
+/* intro — title, lede, meta grid */
+.p-intro{background:var(--black);padding-block:clamp(3.5rem,6vw,5.5rem)}
+.p-lede{
+  font-family:var(--serif);font-size:clamp(1.25rem,2.2vw,1.7rem);line-height:1.55;
+  color:var(--white);max-width:62ch;margin-bottom:clamp(2.5rem,4vw,3.5rem);
+}
+.p-lede em{font-style:italic;color:var(--gold-lt)}
+.p-meta{
+  display:grid;grid-template-columns:repeat(4,1fr);gap:1.8rem;
+  border-top:1px solid var(--line-d-soft);padding-top:2rem;
+}
+.p-meta > div{min-width:0}
+.p-meta dt{
+  font-size:.72rem;font-weight:700;letter-spacing:.24em;text-transform:uppercase;
+  color:var(--gold);margin-bottom:.6rem;
+}
+.p-meta dd{font-size:1rem;color:var(--mut);line-height:1.6}
+
+/* chapters — numbered editorial sections */
+.chapter{background:var(--black);padding-block:clamp(3rem,5vw,4.5rem)}
+.chapter.alt{background:var(--ink)}
+.ch-head{margin-bottom:clamp(2rem,3.5vw,3rem);max-width:70ch}
+.ch-num{
+  display:block;font-family:var(--serif);font-style:italic;
+  font-size:clamp(1rem,1.6vw,1.25rem);color:var(--gold);margin-bottom:1rem;
+}
+.ch-head h2{
+  font-family:var(--serif);font-weight:400;
+  font-size:clamp(1.8rem,3.4vw,2.8rem);line-height:1.15;letter-spacing:-.01em;
+  color:var(--white);margin-bottom:1.2rem;
+}
+.ch-head h2 em{font-style:italic;color:var(--gold-lt)}
+.ch-body{color:var(--mut);font-size:1.02rem;line-height:1.8;max-width:62ch}
+.ch-body p + p{margin-top:1.1rem}
+.draw-tag{
+  display:inline-block;margin-top:1.4rem;font-size:.72rem;font-weight:700;
+  letter-spacing:.24em;text-transform:uppercase;color:var(--gold);
+  border:1px solid rgba(201,169,97,.4);border-radius:999px;padding:.55rem 1.15rem;
+}
+
+/* chapter galleries */
+.gal{display:grid;gap:clamp(1rem,2vw,1.6rem)}
+.gal-pair{grid-template-columns:repeat(2,1fr)}
+.gal-triple{grid-template-columns:repeat(3,1fr)}
+.gal-single{grid-template-columns:1fr;max-width:1100px}
+.gal-stack{grid-template-columns:1fr;max-width:900px;margin-inline:auto}
+.gal-essay{grid-template-columns:1fr;max-width:1000px}
+.g-fig{margin:0;min-width:0}
+.g-fig button{
+  all:unset;display:block;width:100%;cursor:zoom-in;border-radius:var(--radius);
+  overflow:hidden;
+}
+.g-fig button:focus-visible{outline:2px solid var(--gold);outline-offset:4px}
+.g-media{display:block;overflow:hidden;border-radius:var(--radius);background:var(--card)}
+.g-media img{width:100%;height:100%;object-fit:cover;transition:transform .8s var(--ease)}
+.g-fig button:hover .g-media img{transform:scale(1.03)}
+.g-fig figcaption{
+  margin-top:.9rem;font-size:.82rem;color:var(--mut-soft);letter-spacing:.04em;line-height:1.6;
+}
+
+/* related projects */
+.related{background:var(--ink);border-top:1px solid var(--line-d-soft)}
+.rel-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(1.2rem,2.4vw,2rem);margin-top:2.5rem}
+.rel-card{
+  display:block;text-decoration:none;color:inherit;min-width:0;
+  background:var(--card);border:1px solid var(--line-d-soft);border-radius:var(--radius);
+  overflow:hidden;transition:transform .4s var(--ease),border-color .4s var(--ease);
+}
+.rel-card:hover{transform:translateY(-6px);border-color:rgba(201,169,97,.35)}
+.rel-media{display:block;aspect-ratio:16/10;overflow:hidden;background:var(--card-2)}
+.rel-media img{width:100%;height:100%;object-fit:cover;transition:transform .8s var(--ease)}
+.rel-card:hover .rel-media img{transform:scale(1.05)}
+.rel-card h3{
+  font-family:var(--serif);font-weight:400;font-size:1.35rem;line-height:1.3;
+  color:var(--white);padding:1.3rem 1.4rem .4rem;
+}
+.rel-card p{font-size:.85rem;color:var(--mut-soft);padding:0 1.4rem 1.4rem;letter-spacing:.04em}
+
+/* next project — large image CTA */
+.p-next{
+  position:relative;display:flex;align-items:flex-end;min-height:62svh;
+  text-decoration:none;overflow:hidden;color:var(--white);
+}
+.p-next-media{position:absolute;inset:0}
+.p-next-media img{width:100%;height:100%;object-fit:cover;transition:transform 1.2s var(--ease)}
+.p-next:hover .p-next-media img{transform:scale(1.04)}
+.p-next::after{
+  content:"";position:absolute;inset:0;pointer-events:none;
+  background:linear-gradient(180deg,rgba(10,10,10,.25) 0%,rgba(10,10,10,.55) 55%,rgba(10,10,10,.94) 100%);
+}
+.p-next-copy{
+  position:relative;z-index:2;width:100%;max-width:var(--wrap);
+  margin-inline:auto;padding-inline:var(--pad);
+  padding-bottom:clamp(3rem,6vw,5rem);padding-top:6rem;
+}
+.p-next-copy .eyebrow{color:var(--gold)}
+.p-next-copy h2{
+  font-family:var(--serif);font-weight:400;
+  font-size:clamp(2.2rem,5vw,4.2rem);line-height:1.08;color:var(--white);
+  max-width:14ch;margin:1rem 0 1.4rem;
+}
+.p-next-go{
+  display:inline-flex;align-items:center;gap:.7em;
+  font-size:.78rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;
+  color:var(--gold);
+}
+.p-next-go .arr{transition:transform .3s var(--ease)}
+.p-next:hover .p-next-go .arr{transform:translate(4px,-4px)}
+
+/* project contact CTA */
+.p-cta{background:var(--black);text-align:center;border-top:1px solid var(--line-d-soft)}
+.p-cta .eyebrow{display:flex;justify-content:center}
+.contact-title{
+  font-family:var(--serif);font-weight:400;
+  font-size:clamp(2rem,4.4vw,3.4rem);line-height:1.12;color:var(--white);
+  margin:1rem 0 1.1rem;
+}
+.contact-title em{font-style:italic;color:var(--gold-lt)}
+.contact-copy{color:var(--mut);max-width:52ch;margin:0 auto 2.2rem;font-size:1.02rem}
 
 /* ---------- responsive ---------- */
 @media(max-width:1100px){
@@ -614,6 +769,9 @@ a{color:inherit}
   .ins-grid{grid-template-columns:repeat(2,1fr)}
   .pcard,.pcard:first-child,.pcard:nth-child(2),.pcard:nth-child(3),.pcard:nth-child(4){grid-column:span 6}
   .cta-inner{grid-template-columns:1fr}
+  .p-meta{grid-template-columns:repeat(2,1fr)}
+  .rel-grid{grid-template-columns:repeat(2,1fr)}
+  .gal-triple{grid-template-columns:repeat(2,1fr)}
 }
 @media(max-width:860px){
   .site-nav,.head-cta{display:none}
@@ -621,6 +779,7 @@ a{color:inherit}
   .stats-bar{grid-template-columns:repeat(2,1fr)}
   .stat:nth-child(3){border-left:0;padding-left:0}
   .svc-grid{grid-template-columns:repeat(2,1fr)}
+  .gal-pair,.gal-triple{grid-template-columns:1fr}
 }
 @media(max-width:600px){
   .stats-bar{grid-template-columns:1fr;padding:1.6rem}
@@ -632,6 +791,10 @@ a{color:inherit}
   .ins-grid{grid-template-columns:1fr}
   .hero-inner{padding-bottom:8.5rem}
   .cta{margin-inline:16px}
+  .p-meta{grid-template-columns:1fr;gap:1.2rem}
+  .rel-grid{grid-template-columns:1fr}
+  .p-hero{min-height:58svh}
+  .p-next{min-height:50svh}
 }
 
 @media(prefers-reduced-motion:reduce){
@@ -1121,7 +1284,7 @@ def chapter_figure(key, cap, p, group):
 </figure>'''
 
 
-def chapter_section(s, n, p):
+def chapter_section(s, n, p, alt=False):
     captions = [s['captions']] if isinstance(s['captions'], str) else s['captions']
     if len(captions) != len(s['images']):
         warnings.append(f"caption count mismatch: {s.get('title')}")
@@ -1133,13 +1296,14 @@ def chapter_section(s, n, p):
     gal_cls = GAL_CLASS.get(s.get('layout'), 'gal-pair')
     figs = '\n'.join(chapter_figure(k, cap, p, f'ch{n}')
                      for k, cap in zip(s['images'], captions))
-    return f'''<section class="chapter" id="{e(s.get('anchor') or f'chapter-{n}')}"
+    alt_cls = ' alt' if alt else ''
+    return f'''<section class="chapter{alt_cls}" id="{e(s.get('anchor') or f'chapter-{n}')}"
          aria-labelledby="ch-title-{n}">
   <div class="wrap">
     <div class="ch-head">
       <span class="ch-num" data-rv>{str(n).zfill(2)}</span>
       <div>
-        <h2 data-rv id="ch-title-{n}">{e(s['title'])}</h2>
+        <h2 data-rv id="ch-title-{n}">{em_last(s['title'])}</h2>
         <div class="ch-body" data-rv="d1">{body}</div>
         <div data-rv="d1">{tag}</div>
       </div>
@@ -1155,11 +1319,11 @@ def cta_band(p):
     c = SITE['contact']
     cta = ''
     if c.get('email'):
-        cta = (f'<a class="btn" data-rv href="mailto:{e(c["email"])}">'
+        cta = (f'<a class="btn btn-gold" data-rv href="mailto:{e(c["email"])}">'
                f'Get in touch {arrow()}</a>')
     return f'''<section class="p-cta sec">
   <div class="wrap">
-    <p class="eyebrow" data-rv style="justify-content:center">Contact</p>
+    <p class="sec-over" data-rv style="justify-content:center">Contact</p>
     <h2 class="contact-title" data-rv>{em_last(c['headline'])}</h2>
     <p class="contact-copy" data-rv="d1">{e(c['copy'])}</p>
     {cta}
@@ -1174,7 +1338,7 @@ def project_page(g, i, p='../../'):
     rel = [ORDERED[(i + k) % n] for k in (1, 2, 3)]
     number = str(g['number']).zfill(2)
 
-    chapters = '\n'.join(chapter_section(s, n_, p)
+    chapters = '\n'.join(chapter_section(s, n_, p, alt=(n_ % 2 == 0))
                          for n_, s in enumerate(g['slides'], 1))
     rel_cards = '\n'.join(
         f'''<a class="rel-card" data-rv href="{p}projects/{r['id']}/">
@@ -1184,17 +1348,20 @@ def project_page(g, i, p='../../'):
     </a>''' for r in rel)
 
     body = f'''<div class="p-top wrap">
-  <a href="{p}project-index/">← Project index</a>
-  <span>N° {number} — {e(g['category'])}</span>
+  <a href="{p}project-index/">&larr; Project index</a>
+  <span class="p-num">N&deg; {number} &mdash; {e(g['category'])}</span>
 </div>
-<section class="p-hero" aria-label="{e(g['title'])} — hero image">
-  {img(g['hero'], g['title'] + ' — design visualisation', eager=True, p=p)}
+<section class="p-hero" aria-label="{e(g['title'])} &mdash; hero image">
+  <div class="p-hero-media">{img(g['hero'], g['title'] + ' — design visualisation', eager=True, p=p)}</div>
+  <div class="p-hero-scrim" aria-hidden="true"></div>
+  <div class="p-hero-copy">
+    <p class="p-hero-over" data-rv>{e(g['category'])} &middot; {e(g['location'])}</p>
+    <h1 class="p-hero-title" data-rv="d1">{em_last(g['title'])}</h1>
+  </div>
 </section>
-<section class="p-head">
+<section class="p-intro">
   <div class="wrap">
-    <p class="p-loc" data-rv>{e(g['location'])}</p>
-    <h1 class="p-title" data-rv="d1">{e(g['title'])}</h1>
-    <p class="p-lede" data-rv="d2">{e(g['body'].strip())}</p>
+    <p class="p-lede" data-rv>{em_last(g['body'].strip())}</p>
     <dl class="p-meta" data-rv>
       <div><dt>Location</dt><dd>{e(g['location'])}</dd></div>
       <div><dt>Category</dt><dd>{e(g['category'])}</dd></div>
@@ -1206,25 +1373,25 @@ def project_page(g, i, p='../../'):
 {chapters}
 <section class="related sec">
   <div class="wrap">
-    <p class="eyebrow" data-rv>Related</p>
+    <p class="sec-over" data-rv>Related</p>
     <h2 class="sec-title" data-rv>Continue <em>exploring</em></h2>
     <div class="rel-grid">
 {rel_cards}
     </div>
   </div>
 </section>
-<a class="p-next on-dark" href="{p}projects/{next_g['id']}/" data-rv="clip">
+<a class="p-next" href="{p}projects/{next_g['id']}/" data-rv="clip" aria-label="Next project: {e(next_g['title'])}">
   <span class="p-next-media rv-media">{img(next_g['hero'], next_g['title'] + ' — design visualisation', p=p)}</span>
   <span class="p-next-copy">
-    <span class="eyebrow light">Next project — {str(next_g['number']).zfill(2)}</span>
-    <h2>{e(next_g['title'])}</h2>
+    <span class="sec-over">Next project &mdash; {str(next_g['number']).zfill(2)}</span>
+    <h2>{em_last(next_g['title'])}</h2>
     <span class="p-next-go">View project {arrow()}</span>
   </span>
 </a>
 {cta_band(p)}'''
     desc = g['body'].strip()[:300]
     return shell(f"{g['title']} — Ola Magdy", desc, body,
-                 p=p, page='project-page', og_image=g['hero'])
+                 p=p, page='proj', og_image=g['hero'])
 
 
 # ---------------------------------------------------------------- project index
