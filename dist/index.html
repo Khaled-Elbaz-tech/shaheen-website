@@ -15,26 +15,30 @@
 <meta name="theme-color" content="#171A17">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <script>document.documentElement.classList.add('js');</script>
-<link rel="stylesheet" href="style.css?v=8">
-<script src="site.js?v=8" defer></script>
+<link rel="stylesheet" href="style.css?v=9">
+<script src="site.js?v=9" defer></script>
 </head>
 <body class="home">
 <a class="skip" href="#main">Skip to content</a>
 <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
 <header class="site-header" id="siteHeader">
-  <a class="wordmark" href="" aria-label="Ola Magdy — home">OLA&nbsp;MAGADY<span class="wm-dot">.</span></a>
-  <nav class="site-nav" aria-label="Primary">
-    <a class="nav-link" href="#work"><span>Work</span></a>
+  <div class="head-inner">
+    <a class="wordmark" href="" aria-label="Ola Magdy — home">OLA&nbsp;MAGADY<span class="wm-dot">.</span></a>
+    <nav class="site-nav" aria-label="Primary">
+      <a class="nav-link" href="#work"><span>Work</span></a>
 <a class="nav-link" href="#services"><span>Services</span></a>
 <a class="nav-link" href="#approach"><span>Approach</span></a>
 <a class="nav-link" href="#contact"><span>Contact</span></a>
 <a class="nav-link nav-index" href="project-index/"><span>Index</span><span class="arr" aria-hidden="true">↗</span></a>
-  </nav>
-  <a class="btn btn-outline head-cta" href="#contact">Get in touch</a>
-  <button class="menu-btn" id="menuBtn" aria-expanded="false"
-          aria-controls="menuOverlay" aria-label="Open menu">
-    <span></span><span></span>
-  </button>
+    </nav>
+    <div class="head-actions">
+      <a class="btn btn-outline head-cta" href="#contact">Get in touch</a>
+      <button class="menu-btn" id="menuBtn" aria-expanded="false"
+              aria-controls="menuOverlay" aria-label="Open menu">
+        <span></span><span></span>
+      </button>
+    </div>
+  </div>
 </header>
 <div class="menu-overlay" id="menuOverlay" hidden>
   <nav aria-label="Menu">
@@ -53,29 +57,26 @@
   <div class="hero-inner">
     <p class="hero-over" data-rv>Architecture &middot; Landscape &middot; Place</p>
     <h1 id="home-title" class="hero-title" data-rv="d1">We Create <em>Timeless</em> Spaces.<br>Designed Around You.</h1>
-    <p class="hero-desc" data-rv="d2">From concept to completion, we craft extraordinary spaces that elevate living and stand the test of time.</p>
+    <p class="hero-desc" data-rv="d2">From concept to completion, we craft meaningful spaces that connect people, architecture, and place.</p>
     <div class="hero-cta" data-rv="d3">
       <a class="btn btn-gold" href="#work">Explore our work <span class="arr" aria-hidden="true">&rarr;</span></a>
     </div>
   </div>
+  <a class="scroll-cue" href="#work" aria-label="Scroll to selected work"><span>Scroll</span></a>
 </section>
 <div class="wrap stats-wrap">
   <div class="stats-bar" role="list" aria-label="Studio in numbers">
-<div class="stat" data-rv="d0">
-      <span class="stat-ico" aria-hidden="true">&#9670;</span>
-      <div><p class="stat-num">27+</p><p class="stat-lbl">Projects Completed</p></div>
+<div class="stat" role="listitem" data-rv="d0">
+      <p class="stat-num">27+</p><p class="stat-lbl">Projects Completed</p>
     </div>
-<div class="stat" data-rv="d1">
-      <span class="stat-ico" aria-hidden="true">&#9635;</span>
-      <div><p class="stat-num">03</p><p class="stat-lbl">States Across India</p></div>
+<div class="stat" role="listitem" data-rv="d1">
+      <p class="stat-num">03</p><p class="stat-lbl">States Across India</p>
     </div>
-<div class="stat" data-rv="d2">
-      <span class="stat-ico" aria-hidden="true">&#9673;</span>
-      <div><p class="stat-num">90+</p><p class="stat-lbl">Design Visualisations</p></div>
+<div class="stat" role="listitem" data-rv="d2">
+      <p class="stat-num">19</p><p class="stat-lbl">Project Locations</p>
     </div>
-<div class="stat" data-rv="d3">
-      <span class="stat-ico" aria-hidden="true">&#9733;</span>
-      <div><p class="stat-num">27</p><p class="stat-lbl">Design Typologies</p></div>
+<div class="stat" role="listitem" data-rv="d3">
+      <p class="stat-num">03</p><p class="stat-lbl">Design Disciplines</p>
     </div>
   </div>
 </div>
