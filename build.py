@@ -25,7 +25,7 @@ ORDERED = sorted(
 e = html.escape
 
 # Asset version for cache-busting. Bump this when CSS/JS changes.
-ASSET_V = "7"
+ASSET_V = "8"
 
 # ---------------------------------------------------------------- site.json
 # Shared contract with the PHP CMS. Every value below is a default; anything
@@ -295,7 +295,7 @@ CSS = '''/* OLA MAGADY — ARCOVA-inspired dark luxury system.
 
 :root{
   --black:#0A0A0A; --ink:#111111; --card:#161616; --card-2:#1B1B1B;
-  --gold:#C9A961; --gold-lt:#D4AF6A; --gold-deep:#A9884A;
+  --gold:#D4AF6A; --gold-lt:#E0BC72; --gold-deep:#A9884A;
   --cream:#F8F6F1; --cream-2:#F1EDE4; --white:#FFFFFF;
   --mut:rgba(255,255,255,.62); --mut-soft:rgba(255,255,255,.42);
   --mut-d:#6B6B6B; --ink-text:#1A1A1A;
@@ -361,19 +361,20 @@ a{color:inherit}
   height:76px;
 }
 .site-header.scrolled{
-  background:rgba(10,10,10,.88);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+  background:rgba(8,8,8,.94);backdrop-filter:blur(18px) saturate(1.2);-webkit-backdrop-filter:blur(18px) saturate(1.2);
   border-bottom-color:var(--line-d-soft);
 }
 .wordmark{
-  font-family:var(--serif);font-size:1.35rem;letter-spacing:.14em;
+  font-family:var(--serif);font-size:1.5rem;font-weight:700;letter-spacing:.12em;
   text-decoration:none;color:var(--white);white-space:nowrap;
+  text-shadow:0 1px 8px rgba(0,0,0,.5);
 }
 .wordmark .wm-dot{color:var(--gold)}
 .site-nav{display:flex;align-items:center;gap:clamp(1.2rem,2.5vw,2.4rem)}
 .nav-link{
-  font-size:.78rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;
-  text-decoration:none;color:var(--mut);position:relative;padding:.4rem 0;
-  transition:color .3s var(--ease);
+  font-size:.85rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;
+  text-decoration:none;color:rgba(255,255,255,.8);position:relative;padding:.4rem 0;
+  transition:color .3s var(--ease);text-shadow:0 1px 6px rgba(0,0,0,.5);
 }
 .nav-link::after{
   content:"";position:absolute;left:0;bottom:0;height:1px;width:100%;
@@ -418,8 +419,8 @@ a{color:inherit}
 .hero-media img{width:100%;height:100%;object-fit:cover}
 .hero-scrim{
   position:absolute;inset:0;pointer-events:none;
-  background:linear-gradient(180deg,rgba(10,10,10,.42) 0%,rgba(10,10,10,.08) 38%,
-    rgba(10,10,10,.55) 72%,rgba(10,10,10,.92) 100%);
+  background:linear-gradient(180deg,rgba(10,10,10,.55) 0%,rgba(10,10,10,.25) 30%,
+    rgba(10,10,10,.72) 60%,rgba(10,10,10,.96) 100%);
 }
 .hero-inner{
   position:relative;z-index:2;width:100%;max-width:var(--wrap);
@@ -427,18 +428,21 @@ a{color:inherit}
   padding-bottom:clamp(7rem,12vh,10rem);padding-top:9rem;
 }
 .hero-over{
-  font-size:.75rem;font-weight:700;letter-spacing:.32em;text-transform:uppercase;
-  color:var(--gold);margin-bottom:1.4rem;
+  font-size:.85rem;font-weight:700;letter-spacing:.38em;text-transform:uppercase;
+  color:var(--gold-lt);margin-bottom:1.4rem;
+  text-shadow:0 1px 8px rgba(0,0,0,.7);
 }
 .hero-title{
   font-family:var(--serif);font-weight:400;
   font-size:clamp(2.9rem,7.2vw,6.4rem);line-height:1.04;letter-spacing:-.01em;
   color:var(--white);max-width:14ch;margin-bottom:1.6rem;
+  text-shadow:0 2px 24px rgba(0,0,0,.65),0 1px 6px rgba(0,0,0,.8);
 }
 .hero-title em{font-style:italic;color:var(--gold-lt)}
 .hero-desc{
-  color:var(--mut);font-size:clamp(1rem,1.4vw,1.18rem);line-height:1.75;
+  color:rgba(255,255,255,.85);font-size:clamp(1.05rem,1.5vw,1.22rem);line-height:1.75;
   max-width:52ch;margin-bottom:2.4rem;
+  text-shadow:0 1px 10px rgba(0,0,0,.6);
 }
 .hero-cta{display:flex;gap:1rem;flex-wrap:wrap}
 
@@ -446,7 +450,7 @@ a{color:inherit}
 .stats-wrap{position:relative;z-index:3;margin-top:calc(clamp(7rem,12vh,10rem) * -1 + 2rem);
   padding-bottom:0}
 .stats-bar{
-  background:rgba(22,22,22,.92);border:1px solid var(--line-d-soft);
+  background:rgba(14,14,14,.96);border:1px solid var(--line-d-soft);
   border-radius:var(--radius);backdrop-filter:blur(10px);
   display:grid;grid-template-columns:repeat(4,1fr);
   padding:clamp(1.6rem,3vw,2.6rem) clamp(1.2rem,2.5vw,2.4rem);
@@ -455,17 +459,17 @@ a{color:inherit}
 .stat{display:flex;align-items:center;gap:1rem;min-width:0}
 .stat + .stat{border-left:1px solid var(--line-d-soft);padding-left:1.5rem}
 .stat-ico{
-  width:46px;height:46px;flex:none;border-radius:50%;
-  border:1px solid rgba(201,169,97,.4);display:flex;align-items:center;justify-content:center;
-  color:var(--gold);font-size:1.25rem;
+  width:50px;height:50px;flex:none;border-radius:50%;
+  border:1px solid rgba(224,188,114,.55);display:flex;align-items:center;justify-content:center;
+  color:var(--gold-lt);font-size:1.35rem;background:rgba(224,188,114,.08);
 }
-.stat-num{font-family:var(--serif);font-size:clamp(1.7rem,2.6vw,2.4rem);color:var(--gold);line-height:1.1}
-.stat-lbl{font-size:.78rem;color:var(--mut);letter-spacing:.06em}
+.stat-num{font-family:var(--serif);font-size:clamp(1.9rem,2.8vw,2.6rem);color:var(--gold-lt);line-height:1.1;font-weight:700}
+.stat-lbl{font-size:.85rem;color:rgba(255,255,255,.75);letter-spacing:.06em;font-weight:600}
 
 /* ---------- section headings ---------- */
 .sec-over{
-  font-size:.72rem;font-weight:700;letter-spacing:.32em;text-transform:uppercase;
-  color:var(--gold);margin-bottom:1.1rem;
+  font-size:.8rem;font-weight:700;letter-spacing:.34em;text-transform:uppercase;
+  color:var(--gold-lt);margin-bottom:1.1rem;
 }
 .sec-title{
   font-family:var(--serif);font-weight:400;
@@ -623,8 +627,8 @@ a{color:inherit}
 .p-hero .p-hero-media img{width:100%;height:100%;object-fit:cover}
 .p-hero .p-hero-scrim{
   position:absolute;inset:0;pointer-events:none;
-  background:linear-gradient(180deg,rgba(10,10,10,.35) 0%,rgba(10,10,10,.05) 40%,
-    rgba(10,10,10,.55) 70%,rgba(10,10,10,.94) 100%);
+  background:linear-gradient(180deg,rgba(10,10,10,.5) 0%,rgba(10,10,10,.2) 35%,
+    rgba(10,10,10,.7) 65%,rgba(10,10,10,.96) 100%);
 }
 .p-hero-copy{
   position:relative;z-index:2;width:100%;max-width:var(--wrap);
@@ -632,13 +636,15 @@ a{color:inherit}
   padding-bottom:clamp(3rem,6vw,5rem);padding-top:6rem;
 }
 .p-hero-over{
-  font-size:.72rem;font-weight:700;letter-spacing:.32em;text-transform:uppercase;
-  color:var(--gold);margin-bottom:1.2rem;
+  font-size:.82rem;font-weight:700;letter-spacing:.36em;text-transform:uppercase;
+  color:var(--gold-lt);margin-bottom:1.2rem;
+  text-shadow:0 1px 8px rgba(0,0,0,.7);
 }
 .p-hero-title{
   font-family:var(--serif);font-weight:400;
   font-size:clamp(2.4rem,5.6vw,4.8rem);line-height:1.06;letter-spacing:-.01em;
   color:var(--white);max-width:16ch;
+  text-shadow:0 2px 20px rgba(0,0,0,.65),0 1px 6px rgba(0,0,0,.8);
 }
 .p-hero-title em{font-style:italic;color:var(--gold-lt)}
 
